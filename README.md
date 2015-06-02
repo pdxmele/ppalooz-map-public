@@ -19,5 +19,5 @@ Mele (Twitter [@pdxmele](https://twitter.com/pdxmele))
 *Data last updated evening of June 1st*
 
 P.S. If you like this, you might also like these:
-[PDX Bike Map](http://pdxmele.com/PDX-bike-map/)
-[PDX Bike to Transit Map](http://pdxmele.com/PDX-bike-transit-map/)
+* [PDX Bike Map](http://pdxmele.com/PDX-bike-map/)
+* [PDX Bike to Transit Map](http://pdxmele.com/PDX-bike-transit-map/)

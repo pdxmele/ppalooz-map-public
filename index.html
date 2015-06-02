@@ -70,7 +70,7 @@ var markers = new L.MarkerClusterGroup({ showCoverageOnHover: false, spiderfyDis
 $(document).ready(function() {
     var map = L.map('map', { maxZoom: 17, minZoom: 9 }).setView([45.516, -122.680], 10);
 
-    var attribution = 'Events &copy; <a href="http://www.shift2bikes.org/cal/viewpp2015.php" target="_blank">shift2bikes</a>, map data and geocoding &copy; <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> contributors, style &copy; <a href="http://mapbox.com" target="_blank">Mapbox</a>/<a href="http://pdxmele.com" target="_blank">@pdxmele</a> | <a href="https://github.com/pdxmele/ppalooz-map-public" target="_blank">More info</a>'
+    var attribution = 'Events &copy; <a href="http://www.shift2bikes.org/cal/viewpp2015.php" target="_blank">shift2bikes</a>, map data and geocoding &copy; <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> contributors, style &copy; <a href="http://mapbox.com" target="_blank">Mapbox</a>/<a href="http://pdxmele.com" target="_blank">@pdxmele</a> | <a href="https://github.com/pdxmele/ppalooz-map-public/blob/master/README.md" target="_blank">More info</a>'
 
     var daytime = new L.TileLayer("http://api.tiles.mapbox.com/v4/saxbarm.lbidcooi/{z}/{x}/{y}.png?access_token=" +
         publicToken, {attribution: attribution});
