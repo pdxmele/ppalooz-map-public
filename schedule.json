@@ -1,0 +1,3326 @@
+var days = {
+  "04": [
+    {
+      "address": "Rocky Butte Road",
+      "coordinates": [
+        -122.5659292,
+        45.5465827
+      ],
+      "description": "What better way to start Pedalpalooza? Get up before the ass-crack of dawn and ride up a volcano to make coffee while watching the sun r...",
+      "id": "04-5027",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#04-5027",
+      "location": "Rocky Butte, Rocky Butte Road",
+      "name": "SUNRISE COFFEE CLUB",
+      "time": "5:00am - 6:30am"
+    },
+    {
+      "address": "Pioneer Courthouse Square, Portland",
+      "coordinates": [
+        -122.679327308895,
+        45.5188288
+      ],
+      "description": "Multnomah Bar Association noon time bicycle rides - short fast rides with hills.  Meet at SW corner of Pioneer Courthouse Square (Yamhil...",
+      "id": "04-4558",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#04-4558",
+      "location": "Pioneer Courthouse Square, SW Broadway and Morrison St",
+      "name": "PORTLAND LAWYER RIDE",
+      "time": "12:00pm - 1:30pm, Every Monday and Thursday"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "The kickoff pa-ride is a pedalpalooza tradition - let's get ready for a month of bike fun together!  Meet up at 6, ride at 7.  5.5 mile ...",
+      "id": "04-4544",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#04-4544",
+      "location": "Salmon Street Fountain, SW Salmon St and Naito Pkwy",
+      "name": "PEDALPALOOZA KICKOFF RIDE",
+      "time": "6:00pm, Ride at 7!"
+    },
+    {
+      "address": "1810 NE 1st Avenue, Portland",
+      "coordinates": [
+        -122.664564591837,
+        45.5359675510204
+      ],
+      "description": "Every first Thursday is Bike Farm's Open Shop Night, when stand fees are waived and tool use is free! Used and new parts are still avail...",
+      "id": "04-4613",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#04-4613",
+      "location": "Bike Farm, 1810 NE First Avenue (one block north of NE Broadway on 1st Ave)",
+      "name": "OPEN SHOP NIGHT AT BIKE FARM",
+      "time": "6:00pm - 9:00pm, First Thursday of every month"
+    },
+    {
+      "address": "3354 SE Powell Blvd Portland OR 97202",
+      "coordinates": [
+        -122.630107214286,
+        45.496717
+      ],
+      "description": "Bikes For Humanity PDX (B4HPDX) Thursdays Free Volunteer Mechanics Class8-week professionally instructed bicycle mechanics curriculum tr...",
+      "id": "04-4125",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#04-4125",
+      "location": "B4HPDX Shop & Bike School, 3354 SE Powell Blvd Portland OR 97202",
+      "name": "B4HPDX FREE VOLUNTEER MECHANICS CLASS",
+      "time": "6:00pm - 9:00pm, Every Thursday"
+    },
+    {
+      "address": "Washington High School, Portland",
+      "coordinates": [
+        -122.65214112045,
+        45.51896795
+      ],
+      "description": "urban exploration, fun, and a little bit of sneakiness!meet at 11PM in the field behind washington high school.",
+      "id": "04-5062",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#04-5062",
+      "location": "Washington High School, SE Alder St and 12th Ave",
+      "name": "BACKDOOR RIDE",
+      "time": "11:00pm"
+    },
+    {
+      "address": "20 SE 8th Ave, Portland",
+      "coordinates": [
+        -122.65736895,
+        45.5224928
+      ],
+      "description": "Tune in after the Pedalplooza Kick Off ride for a celebration of all things Pedalpalooza!We'll be exploring the origins of this signatur...",
+      "id": "04-5107",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#04-5107",
+      "location": "KBOO PORTLAND 90.7 FM, 20 SE 8th Ave, Portland (Tune to 90.7 on your FM dial or listen online @ http://kboo.fm/listen)",
+      "name": "PEDALPALOOZA!!! ON KBOO 90.7 FM",
+      "time": "11:59pm"
+    }
+  ],
+  "05": [
+    {
+      "address": "400 Northeast Couch Street, Portland",
+      "coordinates": [
+        -122.661584,
+        45.523564
+      ],
+      "description": "The last friday of every month for over 10 years now (and every Friday during June), the Shift community has been providing free pastrie...",
+      "id": "05-4982",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-4982",
+      "location": "Steel, Burnside, and Hawthorne bridges, Steel, Burnside, and Hawthorne bridges",
+      "name": "BONB",
+      "time": "7:00am - 9:00am, bike time"
+    },
+    {
+      "address": "Clinton Park, Portland",
+      "coordinates": [
+        -122.604994182179,
+        45.50378005
+      ],
+      "description": "The NE/SE 50s Bikeway was recently completed providing a new North-South bike route mostly on 52nd and 53rd Avenues. This can be combine...",
+      "id": "05-4797",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-4797",
+      "location": "Clinton City Park, SE Woodward St & SE 57th Ave (Meet at the Southeast corner of Clinton Park by the playground)",
+      "name": "THE 50'S AND THE 80'S RIDE",
+      "time": "2:00pm"
+    },
+    {
+      "address": "10400 SE Main St Milwaukie, OR 97222",
+      "coordinates": [
+        -122.641928,
+        45.448089
+      ],
+      "description": "Get your child ready for safe summer biking at our 3rd Annual Bike Safety Rodeo.Join Mayor-elect Mark Gamba along with Bike Milwaukie an...",
+      "id": "05-5040",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-5040",
+      "location": "Veterinary Cancer & Surgery Specialists, 10400 SE Main St Milwaukie, OR 97222",
+      "name": "MILWAUKIE KIDS BIKE SAFETY RODEO",
+      "time": "5:00pm - 8:00pm"
+    },
+    {
+      "address": "1624 SE Woodward St Portland, OR 97202",
+      "coordinates": [
+        -122.649358632653,
+        45.5019815102041
+      ],
+      "description": "PAZ hosts a Bike Art Social for SE First Friday Artwalk.   Bike themed custom prints and metal arts.",
+      "id": "05-4933",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-4933",
+      "location": "PAZ - Portland Autonomous Zone, 1625 SE Woodward St",
+      "name": "FIRST FRIDAY BIKE PUNX UNITE ARTY SOCIAL",
+      "time": "5:30pm - 8:30pm"
+    },
+    {
+      "address": "Dawson Park, Portland",
+      "coordinates": [
+        -122.667396505677,
+        45.5441253
+      ],
+      "description": "Join us for an adventurous ride through North Portland hitting up interesting eating & drinking establishments.Well hit up some Food Car...",
+      "id": "05-5055",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-5055",
+      "location": "Dawson Park, 101 N Stanton St (Meet by the Cupola in the SE Corner of the Park)",
+      "name": "NORTH PDX FOOD & DRINK ADVENTURE!",
+      "time": "5:30pm"
+    },
+    {
+      "address": "1450 Main Street, Vancouver",
+      "coordinates": [
+        -122.671666868683,
+        45.6322230413677
+      ],
+      "description": "This short, sweet, slow and arty, and involves an adult beverage option at the end of the ride.  Meet: north end of parking lot just nor...",
+      "id": "05-4885",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-4885",
+      "location": "Brickhouse, 109 W 15th St (North side of empty lot just north of the Brickhouse)",
+      "name": "ARTBEERCHOCOLATE",
+      "time": "6:00pm - 8:00pm"
+    },
+    {
+      "address": "3529 MLK, Portland, OR, 97212",
+      "coordinates": [
+        -122.661702010101,
+        45.5485395555556
+      ],
+      "description": "Cats on the loose! How many cats will we see whilst whisking our frisky tails through Northeast Portland? Will we see 10 cats? 30 cats? ...",
+      "id": "05-4999",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-4999",
+      "location": "Purrington's Cat Lounge, 3529 NE Martin Luther King Jr Blvd",
+      "name": "CATS RIDE",
+      "time": "6:00pm, Optional pre-ride session at Purrington's at 6, we ride at 7"
+    },
+    {
+      "address": "1945 SE Water Ave",
+      "coordinates": [
+        -122.665661797567,
+        45.50834935
+      ],
+      "description": "Meet at OMSI (on the Esplanade side)Ride up to Rocky Butte, watch the sun set, stargaze!  Sirius, aka Dogstar, is the brightest star in ...",
+      "id": "05-4890",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-4890",
+      "location": "Oregon Museum of Science & Industry, 1945 SE Water Ave",
+      "name": "DOGSTAR ADVENTURE RIDE",
+      "time": "7:30pm"
+    },
+    {
+      "address": "Devil's Point, Portland",
+      "coordinates": [
+        -122.6080375,
+        45.4953741
+      ],
+      "description": "*Bicycle Dance Party!Wild Devilish Delights!Come Run with the Devil y'all for our 6th year!(Anyone remember the first year when I rode w...",
+      "id": "05-5041",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-5041",
+      "location": "Devil's Point, 5305 SE Foster Rd (Show up early, relax, grab a beverage, enjoy the view . . .)",
+      "name": "DIRTY DIABLO'S WILD RIDE!",
+      "time": "8:00pm, Rolling out before sunset ~8:30pm-ish"
+    },
+    {
+      "address": "Apex, Central East Side, Portland",
+      "coordinates": [
+        -122.653316249203,
+        45.50462915
+      ],
+      "description": "Drink Beer, Crash Bikes, Go Fuck Yourself.No outside Beers at the start. Don't be a dick. Bring money and support the local service econ...",
+      "id": "05-5037",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-5037",
+      "location": "Apex, 1216 SE Division",
+      "name": "DEAD BABY BIKES",
+      "time": "9:00pm"
+    },
+    {
+      "address": "1100 NE Alberta St, Portland",
+      "coordinates": [
+        -122.654435,
+        45.559024
+      ],
+      "description": "This is my favorite ride in Portland to take friends upon, embarking from the NE region of Portland, and heading into the great unknown ...",
+      "id": "05-4897",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#05-4897",
+      "location": "NE 11th and Alberta (SE corner)",
+      "name": "THE GUTHRIE RIDE",
+      "time": "10:00pm - 1:00am"
+    }
+  ],
+  "06": [
+    {
+      "address": "4200 SE Morrison St, Portland",
+      "coordinates": [
+        -122.619342,
+        45.517199
+      ],
+      "description": "Come help re-paint the Sunnyside Compass! The Sunnyside Compass was inaugurated at VBC 2014. Our design evokes the sun (a reference to o...",
+      "id": "06-4955",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4955",
+      "location": "Sunnyside Compass, SE 42nd Ave and SE Morrison St",
+      "name": "SUNNYSIDE COMPASS RE-PAINTING",
+      "time": "8:00am - 4:00pm"
+    },
+    {
+      "address": "Siouxon Trail, Skamania County",
+      "coordinates": [
+        -122.1767058,
+        45.9476452
+      ],
+      "description": "Oregon Endurance Mountain Biking - SiouxonOnly 22 miles, but has 5,000&#8242; of climbing and should take between 3-6 hours to complete....",
+      "id": "06-5111",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-5111",
+      "location": "Upper Siouxon Trailhead, Calamity Peak Rd, WA (4556'26.5\"N 12213'48.1\"W)",
+      "name": "SIOUXON WITH A VIEW",
+      "time": "8:00am - 2:00pm"
+    },
+    {
+      "address": "700 Southeast 15th Avenue, Portland",
+      "coordinates": [
+        -122.65048,
+        45.517782
+      ],
+      "description": "Come Repaint the street graphic - this is our 7th year. Our graphic depicts a vine growing from the compost bins winding around the traf...",
+      "id": "06-4948",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4948",
+      "location": "SE 15th & Alder St",
+      "name": "BUCKMAN INTERSECTION PAINTING",
+      "time": "10:00am"
+    },
+    {
+      "address": "1600 SE Ash St, Portland",
+      "coordinates": [
+        -122.649383,
+        45.521385
+      ],
+      "description": "The traffic circle at SE 16th and Ash is a well-trafficked bike route and just a block from the arts-magnet school, Buckman Elementary. ...",
+      "id": "06-4952",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4952",
+      "location": "SE 16th Ave and SE Ash St.",
+      "name": "SE 16TH & ASH STREET PAINTING",
+      "time": "10:00am, til 7 p.m."
+    },
+    {
+      "address": "900 SE Sherrett St, Portland",
+      "coordinates": [
+        -122.656802,
+        45.461391
+      ],
+      "description": "Share-It Square was the first intersection repair in the world. It's also one of the only in Portland that changes it's image every year...",
+      "id": "06-4958",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4958",
+      "location": "SE 9th Ave and SE Sherrett St.",
+      "name": "SHERRETT SQUARE STREET PAINTING",
+      "time": "10:00am - 4:00pm"
+    },
+    {
+      "address": "Northeast 33rd Drive, Faloma, Portland, 97211",
+      "coordinates": [
+        -122.6352434,
+        45.6001256
+      ],
+      "description": "An electron celebration for E-bikes, cool lights, electronic gizmos and admirers of all the above.",
+      "id": "06-5078",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-5078",
+      "location": "Marine Drive Bike Path at NE 33rd Ave.",
+      "name": "ELECTRIC MAYHEM",
+      "time": "10:00am"
+    },
+    {
+      "address": "Exiled Records, Portland",
+      "coordinates": [
+        -122.614571731651,
+        45.51181015
+      ],
+      "description": "Vinyl records are like bikes: both got supposedly obsoleted by something (cars, CDs) that turned out not to be better at all, and both a...",
+      "id": "06-4921",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4921",
+      "location": "Exiled Records, 4628 SE Hawthorne Blvd (Start is a record store, so ride doesn't leave right away.)",
+      "name": "RECORD STORE RIDE",
+      "time": "11:00am - 3:00pm"
+    },
+    {
+      "address": "9080 N Edison St, Portland",
+      "coordinates": [
+        -122.760821673469,
+        45.5910771020408
+      ],
+      "description": "Come help us repaint our intersection! Compass Junction, three berry-lined blocks from Cathedral Park, was first painted in 2009. Our Ma...",
+      "id": "06-4937",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4937",
+      "location": "N Saint Louis Ave & N Edison St",
+      "name": "ST. JOHNS INTERSECTION PAINTING & BLOCK PARTY",
+      "time": "11:00am,  til sundown."
+    },
+    {
+      "address": "Unthank Park, Portland",
+      "coordinates": [
+        -122.671219259059,
+        45.55142545
+      ],
+      "description": "Bike tour of goats in the city! Are you goat-curious? We'll visit a few different goat \"ranches/farms\" and see what it's like to own goa...",
+      "id": "06-4838",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4838",
+      "location": "Unthank Park, N Kerby Ave and Failing St",
+      "name": "GOAT-A-PALOOZA",
+      "time": "1:00pm - 5:00pm"
+    },
+    {
+      "address": "Everybody's Bike Rentals, Portland",
+      "coordinates": [
+        -122.6623563,
+        45.5577832
+      ],
+      "description": "We'll hit all the same great spots as are we do on our NE Portland \"Secret Spots\" bike tour. We'll explore the flavors, sights, eccentri...",
+      "id": "06-4924",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4924",
+      "location": "Everybody's Bike Rentals & Tours, 305 NE Wygant, portland, or 97211",
+      "name": "EVERYBODY'S BIKE RENTALS NE BIKE TOUR",
+      "time": "1:00pm - 4:00pm, Show up early, 'cause we're leaving on time."
+    },
+    {
+      "address": "1945 SE Water Ave, Portland",
+      "coordinates": [
+        -122.665661797567,
+        45.50834935
+      ],
+      "description": "*Fun, slow-paced family ride with kid friendly music & BIG BUBBLES!OMSI to a random fountain (or 2) downtown for a splashy good time!Bri...",
+      "id": "06-5047",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-5047",
+      "location": "OMSI, 1945 SE Water Ave, Portland (Meet on the Esplande near the Submarine)",
+      "name": "ELLIE'S RIDE PART I",
+      "time": "1:00pm, Rolling out ~1:30pm"
+    },
+    {
+      "address": "Fields Park, Portland",
+      "coordinates": [
+        -122.681702624136,
+        45.5331237
+      ],
+      "description": "Are you already missing Santacon? Do you love wearing red and white? Are you just so full of holiday cheer that you need to express it t...",
+      "id": "06-4861",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4861",
+      "location": "Fields Park, NW Quimby Ave & 11th Street",
+      "name": "SANTA RIDE",
+      "time": "1:30pm"
+    },
+    {
+      "address": "Coe Circle, Portland",
+      "coordinates": [
+        -122.622679,
+        45.5262697
+      ],
+      "description": "Sunny Naked Ride honoring Terri Sue Webb, an Oregon body freedom activist.  We'll ride naked or nearly so on the streets of Portland, th...",
+      "id": "06-5072",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-5072",
+      "location": "Coe Circle, 3900 NE Glisan St",
+      "name": "TERRI SUE WEBB NAKED",
+      "time": "2:00pm - 4:00pm, Roll at 2:15"
+    },
+    {
+      "address": "65 SW Yamhill St.",
+      "coordinates": [
+        -122.673765,
+        45.517141
+      ],
+      "description": "1) Dress up as your favorite ASIP character. Or at least channel your favorite character's energy. I'll bring nametags if all else fails...",
+      "id": "06-5097",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-5097",
+      "location": "Paddy's Bar & Grill, 65 SW Yamhill St.",
+      "name": "ALWAYS SUNNY IN PHILADELPHIA RIDE",
+      "time": "2:30pm - 3:30pm"
+    },
+    {
+      "address": "1720 NW Lovejoy St, Portland",
+      "coordinates": [
+        -122.688774306122,
+        45.5298875510204
+      ],
+      "description": "The Rollin' Gold ride, presented by Circa CyclesWhat: A gold-themed bike ride. Bling out your bike, and yourself.When: Saturday, June 6,...",
+      "id": "06-4828",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4828",
+      "location": "Circa Cycles, NW 17th Ave and NW Lovejoy (1720 NW Lovejoy, Ste. 111)",
+      "name": "ROLLIN' GOLD RIDE, PRESENTED BY CIRCA CYCLES",
+      "time": "4:00pm"
+    },
+    {
+      "address": "2801 NE Weidler St, Portland",
+      "coordinates": [
+        -122.636525,
+        45.534544
+      ],
+      "description": "Are you leading your first, or 50th ride this pedalpalooza?  Are you ride-lead curious? Interested in best practices, wondering how it w...",
+      "id": "06-5085",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-5085",
+      "location": "NE Weidler St & NE 28th Ave",
+      "name": "RIDE LEADERSHIP RIDE",
+      "time": "5:00pm - 7:30pm"
+    },
+    {
+      "address": "Ladd Circle, Portland",
+      "coordinates": [
+        -122.649415394035,
+        45.508535
+      ],
+      "description": "Join us for a Charge of the Light Brigade Ride all over Portland Oregon. Let's light up our bikes and go hunting for places with interes...",
+      "id": "06-4969",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-4969",
+      "location": "Ladd Circle, 1600 SE Harrison St",
+      "name": "CHARGE OF THE LIGHT BRIGADE!",
+      "time": "7:30pm, Who knows how long this ride is going to go?"
+    },
+    {
+      "address": "Vera Katz Statue, Portland",
+      "coordinates": [
+        -122.6682271,
+        45.513846
+      ],
+      "description": "Metal Marriage ride where everyone is married in unholy matrimony.   Worshippers of Pentagram in a bicycle black mass with loud as hell ...",
+      "id": "06-5069",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#06-5069",
+      "location": "Vera Katz Statue, SE Eastbank Esplanade and Main St",
+      "name": "METAL MARRIAGE RIDE",
+      "time": "8:00pm - 2:00am, Ride out at 9pm"
+    }
+  ],
+  "07": [
+    {
+      "address": "Cartlandia, Portland",
+      "coordinates": [
+        -122.579427485936,
+        45.46393795
+      ],
+      "description": "Informal group skate from Cartlandia out towards Boring.  Ride runs up to 20 miles but you turn around when you like Everyone welcome! b...",
+      "id": "07-4997",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4997",
+      "location": "Cartlandia, 8145 SE 82nd St., Portland, OR",
+      "name": "SPRINGWATER SUNDAY KILT SKATE.",
+      "time": "10:00am"
+    },
+    {
+      "address": "1969 NE 42nd Avenue",
+      "coordinates": [
+        -122.620235,
+        45.53707275
+      ],
+      "description": "We will meet at Velocult with our classic & vintage road bikes, to celebrate lugs, downtube friction shifters, sew-ups, high-flange hubs...",
+      "id": "07-4813",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4813",
+      "location": "Velocult, 1969 NE 42nd Avenue",
+      "name": "CLASSIC & VINTAGE ROAD BIKE OGLE & RIDE",
+      "time": "11:00am"
+    },
+    {
+      "address": "Marine Park, Vancouver",
+      "coordinates": [
+        -122.622026394698,
+        45.61489325
+      ],
+      "description": "Oil trains hauling Bakken crude oil and Tarsands oil have exploded across the US and Canada for the last 2 years.  The Port of Vancouver...",
+      "id": "07-5003",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-5003",
+      "location": "Marine Park , SE Marine Park Way and Columbia Way (at the playground)",
+      "name": "OIL TRAIN BLAST ZONE RIDE",
+      "time": "11:00am"
+    },
+    {
+      "address": "Dawson Park, Portland",
+      "coordinates": [
+        -122.667396505677,
+        45.5441253
+      ],
+      "description": "The Bike Temple takes you on a \"speed dating\" style tour of religion in Portland.  We'll visit a diverse selection of houses of worship,...",
+      "id": "07-5070",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-5070",
+      "location": "Dawson Park, 101 N Stanton St (Williams between Russell and Fremont)",
+      "name": "JOY OF SECTS",
+      "time": "11:00am - 1:30pm"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "Join us for two of our favorites... biking & dancing, as we tour through inner SE. We'll have awesome instructors and music. Come dresse...",
+      "id": "07-4978",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4978",
+      "location": "Col. Summers Park, SE 20th and Belmont (Basketball Court)",
+      "name": "ZUMBA RIDE",
+      "time": "12:00pm"
+    },
+    {
+      "address": "Jamison Square, Portland",
+      "coordinates": [
+        -122.68186156755,
+        45.52904765
+      ],
+      "description": "Join us for a Family Friendly ride to many of Downtown & NW Portland's Fountains.We'll start out at Jamison Square then make our way aro...",
+      "id": "07-5052",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-5052",
+      "location": "Jamison Square, NW 10th and Johnson (We'll meet by the Red Sculpture behind the Fountain)",
+      "name": "SPLISH, SPLASH IT'S A WET, WET PORTLAND RIDE!",
+      "time": "2:00pm"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Kids ride (bikes, balance bikes, scooters...), adults walk.  We will stick to the sidewalks and esplanade.  Stops at fountains, playgrou...",
+      "id": "07-4824",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4824",
+      "location": "Salmon Street Springs Fountain, SW Naito Pkwy & Salmon St",
+      "name": "KID SPEED",
+      "time": "3:00pm"
+    },
+    {
+      "address": "Laurelhurst Park",
+      "coordinates": [
+        -122.626757045888,
+        45.52134645
+      ],
+      "description": "The 2nd Annual Grilled By Bike!  We'll ride from park to park and grill turduckens, tofurkey, tamales, or whatever shows up. There will ...",
+      "id": "07-4974",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4974",
+      "location": "Laurelhurst Park, 3700 SE Ankeny St (Follow your nose to North Central area)",
+      "name": "GRILLED BY BIKE!",
+      "time": "3:00pm - 1:00am, Grill for a while, roll out at 4 PM to the next destination"
+    },
+    {
+      "address": "Laurelhurst Park",
+      "coordinates": [
+        -122.626757045888,
+        45.52134645
+      ],
+      "description": "In 2010 George Gust from Ridgefield, WA wrote to the Oregonian: \"Dear Sam Adams,  Nobody I know rides their bike to Costco.\" In 2015, NZ...",
+      "id": "07-5042",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-5042",
+      "location": "Laurelhurst Park, 3700 SE Ankeny St (We will meet at the NE corner, by Ankeny and Chavez)",
+      "name": "GEORGE GUST MEMORIAL COSTCO QUAX!",
+      "time": "3:00pm - 6:00pm, Time accounts for an hour out, an hour there, and an hour back."
+    },
+    {
+      "address": "4601 N Williams Ave",
+      "coordinates": [
+        -122.6669545,
+        45.556508
+      ],
+      "description": "Do you love wordplay? Do you make people groan? Then bring your puns and humor to this lighthearted competition.  We'll randomly select ...",
+      "id": "07-5026",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-5026",
+      "location": "Going Street Market, 4601 N Williams Ave",
+      "name": "PUNISHMENT RIDE",
+      "time": "4:00pm - 5:30pm, duration is approximate"
+    },
+    {
+      "address": "Portland Union Station",
+      "coordinates": [
+        -122.676794088729,
+        45.5290095
+      ],
+      "description": "A 6 mile or so tour around the NW Industrial Area on industrial bikes. Think American mid-century style balloon tire cruisers, like Schw...",
+      "id": "07-4808",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4808",
+      "location": "Union Station, 800 NW 6th Ave, Portland (Meet by stone obelisk at NW 6th and Irving.)",
+      "name": "HEAVY DUTY: INDUSTRIAL BIKE TOUR",
+      "time": "4:30pm - 7:00pm, meet at 4:30 pm, leave at 5 sharp"
+    },
+    {
+      "address": "Laurelhurst Park",
+      "coordinates": [
+        -122.626757045888,
+        45.52134645
+      ],
+      "description": "Come join a very pregnant (9 months) lady bike a short and flat bike ride to eat Italian food! Must be pregnant or pretending to be preg...",
+      "id": "07-4898",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4898",
+      "location": "Laurelhurst Park, 3700 SE Ankeny St (Start near the bathrooms)",
+      "name": "PREGGO TO PREGO",
+      "time": "5:00pm - 7:30pm, We ride at 5:30 and will arrive at the restaurant around 6:00"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "Everyone can be a superhero! Join the Portland Women's Crisis Line for this fun and empowering ride supporting everyone's right to be sa...",
+      "id": "07-4810",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-4810",
+      "location": "Col. Summers Park, SE 20th and Belmont (Meet near the playground and bathrooms near SE 17th and Taylor.)",
+      "name": "BIKE BACK THE NIGHT SUPERHEROS WITH PWCL!",
+      "time": "6:30pm - 8:00pm, We'll decorate and make capes starting at 6:30, ride by 7 pm and be back around 8 pm."
+    },
+    {
+      "address": "400 SW 13th Ave, Portland",
+      "coordinates": [
+        -122.684004,
+        45.522756
+      ],
+      "description": "Zoobomb is long running weekly bike event that meets every Sunday around 8:30PM near (13th & SW Burnside) in Portland OR. Bring a bike, ...",
+      "id": "07-3959",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#07-3959",
+      "location": "Zoobomb Pyle, SW 13th Ave & W Burnside",
+      "name": "ZOOBOMB",
+      "time": "8:30pm, Every Sunday"
+    }
+  ],
+  "08": [
+    {
+      "address": "Pioneer Courthouse Square, Portland",
+      "coordinates": [
+        -122.679327308895,
+        45.5188288
+      ],
+      "description": "Multnomah Bar Association noon time bicycle rides - short fast rides with hills.  Meet at SW corner of Pioneer Courthouse Square (Yamhil...",
+      "id": "08-4558",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#08-4558",
+      "location": "Pioneer Courthouse Square, SW Broadway and Morrison St",
+      "name": "PORTLAND LAWYER RIDE",
+      "time": "12:00pm - 1:30pm, Every Monday and Thursday"
+    },
+    {
+      "address": "1624 SE Woodward St Portland, OR 97202",
+      "coordinates": [
+        -122.649358632653,
+        45.5019815102041
+      ],
+      "description": "Let's art! We'll gather up our resources and ride to a couple attractive spots where we'll paint, draw, sculpt or whatever else we bring...",
+      "id": "08-4975",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#08-4975",
+      "location": "PAZ - Portland Autonomous Zone, 1624 SE Woodward St 97202",
+      "name": "MONDAY MULTIMEDIA",
+      "time": "3:00pm, Ride at 3:30"
+    },
+    {
+      "address": "Kenilworth Park, Portland",
+      "coordinates": [
+        -122.631256375608,
+        45.49136985
+      ],
+      "description": "15ish mile ramble exploring the \"country\" aspects in the city while riding \"Country\" bikes. Expect a good deal of gravel/dirt action, cl...",
+      "id": "08-5029",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#08-5029",
+      "location": "Kenilworth Park, SE 34th and Holgate Blvd. (Meet atop brick comfort station)",
+      "name": "COUNTRY BIKE RAMBLE",
+      "time": "5:00pm - 9:00pm, meet at 5 pm, leave at 5:30 sharp"
+    },
+    {
+      "address": "The Portland Building",
+      "coordinates": [
+        -122.678706794525,
+        45.51560455
+      ],
+      "description": "The Traffic Signals Wonk Ride: Learn about the past, present, and future of intersection design and traffic signals in Portland with an ...",
+      "id": "08-4829",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#08-4829",
+      "location": "Portland Building, 1120 SW 5th Ave (Under Portlandia)",
+      "name": "TRAFFIC SIGNALS WONK RIDE",
+      "time": "5:15pm - 7:45pm, At 5:30, we ride!"
+    },
+    {
+      "address": "1028 SE Water Ave 97214",
+      "coordinates": [
+        -122.665589,
+        45.515185
+      ],
+      "description": "Come on a fun and informative ride with us to check out a few of the cool street art murals in Portland. Pinkies out! The ride route is ...",
+      "id": "08-4981",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#08-4981",
+      "location": "Bunk Bar, 1028 SE Water Ave 97214",
+      "name": "URBAN ART SNOBS LOOP",
+      "time": "5:30pm - 7:30pm, Slow moving many stops"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "The geography and demographics of Portland are changing rapidly. With these changes come widening wealth inequality, dramatic increases ...",
+      "id": "08-5076",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#08-5076",
+      "location": "Col. Summers Park, SE 20th and Belmont (Near the tennis courts)",
+      "name": "CALEB FOR COUNCIL: TAKE BACK YOUR CITY RIDE!",
+      "time": "5:30pm, We'll ride as long as people are interested"
+    }
+  ],
+  "09": [
+    {
+      "address": "3947 North Williams Ave, Portland",
+      "coordinates": [
+        -122.66684422449,
+        45.5513939591837
+      ],
+      "description": "Join us for our June ride that goes up and over to Vancouver. Starting at Hopworks BikeBar, well ride both the I-5 and the I-205 bridges...",
+      "id": "09-4906",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#09-4906",
+      "location": "Hopworks Bike Bar, 3947 North Williams",
+      "name": "PORTLAND BIKE CLUB'S JUNE CLUB RIDE-PEDALPALOOZA E",
+      "time": "4:00pm, We'll be leaving by 4:15 or so"
+    },
+    {
+      "address": "1810 NE 1st Avenue, Portland",
+      "coordinates": [
+        -122.664564591837,
+        45.5359675510204
+      ],
+      "description": "Noche Bilinge is a Spanish-language wrench night in our shop. Stand time will be by donation during the initial roll-out and as always, ...",
+      "id": "09-4742",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#09-4742",
+      "location": "Bike Farm, 1810 NE First Avenue (one block north of NW Broadway on NE First ave)",
+      "name": "NOCHE BILINGUE AT BIKE FARM",
+      "time": "4:30pm - 7:30pm, Second Tuesday of every month"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Celebrate affordability & portability and bring us your tired, your poor, your boxed wines for our party on wheels!",
+      "id": "09-5056",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#09-5056",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland (Meet up with us at the south-west corner of the park.)",
+      "name": "TOUR DE FRANZIA",
+      "time": "6:30pm - 9:00pm"
+    }
+  ],
+  "10": [
+    {
+      "address": "Director Park, Portland",
+      "coordinates": [
+        -122.681372089541,
+        45.518735
+      ],
+      "description": "We don't cater to pre-made or instant coffee. Bring your portable pour-overs, your presses (both french and aero) or maybe just your per...",
+      "id": "10-4998",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-4998",
+      "location": "Director Park, SW Yamhill St and 6th Ave, Portland",
+      "name": "BREW YOUR OWN COFFEE RIDE",
+      "time": "7:30am"
+    },
+    {
+      "address": "2905 NE Alberta Street",
+      "coordinates": [
+        -122.635687826087,
+        45.559123
+      ],
+      "description": "The BTA has teamed up with Base Camp Brewing Company and The Portland Mercury to pay tribute to our local hubs of bike community: bike s...",
+      "id": "10-4954",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-4954",
+      "location": "Gladys Bikes, 2905 NE Alberta Street",
+      "name": "SHOP BEERS: GLADYS BIKES",
+      "time": "5:00pm - 7:00pm"
+    },
+    {
+      "address": "2124 N Williams Ave, Portland",
+      "coordinates": [
+        -122.66658177551,
+        45.5383443673469
+      ],
+      "description": "Think you can ride? Think you can shoot? Come out and play some bike-sketball with us! Get your team together and get ready to play in t...",
+      "id": "10-5018",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-5018",
+      "location": "Portland City Development Center, N Williams & NE Tillamook (in the parking lot)",
+      "name": "BIKESKETBALL",
+      "time": "5:15pm"
+    },
+    {
+      "address": "Reed College, Portland",
+      "coordinates": [
+        -122.631443807048,
+        45.48179645
+      ],
+      "description": "Join me for an 11.5-mile ride by some of the most beautiful ponds, lakes, rivers and creeks in the Portland area. Helmets strongly encou...",
+      "id": "10-4839",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-4839",
+      "location": "Reed College, SE 33rd Ave and Steele St (north parking lot by the campus map)",
+      "name": "SE PONDS RIDE",
+      "time": "5:30pm - 7:30pm"
+    },
+    {
+      "address": "Vera Katz Statue, Portland",
+      "coordinates": [
+        -122.6682271,
+        45.513846
+      ],
+      "description": "This tour will celebrate our river city through the work of artists and engineers.  Think there's only one river downtown? You may be su...",
+      "id": "10-4751",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-4751",
+      "location": "Vera Katz Statue, SE Eastbank Esplanade and Main St",
+      "name": "WATERWAYS REAL & METAPHORIC",
+      "time": "5:45pm - 7:45pm, Meet at 5:45, we ride at 6:00"
+    },
+    {
+      "address": "O'Bryant Square, Portland",
+      "coordinates": [
+        -122.6799885,
+        45.5213529
+      ],
+      "description": "*Pre-game for Artists Repertory Theatre production of \"The Liar\" - come see how the pros do comedy!*http://www.artistsrep.org/onstage/20...",
+      "id": "10-5002",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-5002",
+      "location": "O'Bryant Square, SW Park & Washington St.",
+      "name": "THEATRIC RAMBLE",
+      "time": "6:00pm, Theatre production is 7:30 - 9:15."
+    },
+    {
+      "address": "Laurelhurst Park",
+      "coordinates": [
+        -122.626757045888,
+        45.52134645
+      ],
+      "description": "Why do we love bikes so much? Perhaps it's the sense of freedom they bring. Freedom of remembering how strong we are, how capable, how i...",
+      "id": "10-5089",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-5089",
+      "location": "Laurelhurst Park, 3700 SE Ankeny St (meet at 33rd and SE Ankeny)",
+      "name": "LOVE YR BODY (SE) : ECSTATIC DANCE BY BIKE",
+      "time": "6:30pm - 8:30pm, 2 hrs give or take, socializing after encouraged!"
+    },
+    {
+      "address": "2299 N Skidmore Ct, Portland",
+      "coordinates": [
+        -122.691282,
+        45.555124
+      ],
+      "description": "Got a tandem or a neighbor with a tandem? Grab it and a throw a frenemy on the back for an evening of fun! Or if you're stoking, an even...",
+      "id": "10-5079",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#10-5079",
+      "location": "Skidmore Bluffs, 2299 N Skidmore Ct, Portland",
+      "name": "TANDEM TANDEM!",
+      "time": "7:00pm"
+    }
+  ],
+  "11": [
+    {
+      "address": "5012 SE Hawthorne Blvd",
+      "coordinates": [
+        -122.611216081619,
+        45.5119297328977
+      ],
+      "description": "Field identification of songbirds, native and edible plants, geology, and other natural science  features. Be prepared for some climbing...",
+      "id": "11-5074",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-5074",
+      "location": "Albina Press Coffee, 5012 SE Hawthorne Blvd",
+      "name": "NATURE FORAY ON TABOR",
+      "time": "10:00am - 12:00pm"
+    },
+    {
+      "address": "Pioneer Courthouse Square, Portland",
+      "coordinates": [
+        -122.679327308895,
+        45.5188288
+      ],
+      "description": "Multnomah Bar Association noon time bicycle rides - short fast rides with hills.  Meet at SW corner of Pioneer Courthouse Square (Yamhil...",
+      "id": "11-4558",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4558",
+      "location": "Pioneer Courthouse Square, SW Broadway and Morrison St",
+      "name": "PORTLAND LAWYER RIDE",
+      "time": "12:00pm - 1:30pm, Every Monday and Thursday"
+    },
+    {
+      "address": "546 NE 12th Ave Portland OR",
+      "coordinates": [
+        -122.653450172043,
+        45.5273519677419
+      ],
+      "description": "The 5th Annual Morrissey Mobile Disco: a celebration of anglophilia & too many feelings, exercised the only way we know how: with bikes ...",
+      "id": "11-4821",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4821",
+      "location": "Benson Polytechnic High School, 546 NE 12th Ave Portland OR",
+      "name": "MORRISSEY MOBILE DISCO 5",
+      "time": "5:00pm - 11:00pm, We ride at 6!"
+    },
+    {
+      "address": "1200 SW Park Avenue, Portland",
+      "coordinates": [
+        -122.682355,
+        45.516124
+      ],
+      "description": "SMYRC (sexual minority and gender youth resource center) will be leading this ride and it is intended for all of our community, allies t...",
+      "id": "11-4854",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4854",
+      "location": "South Park Blocks, SW Park Ave and Madison St",
+      "name": "QUEEREST BIKE RIDE OF THE YEAR!",
+      "time": "5:00pm - 9:00pm, Meeting @ 5pm to socialize and decorate bikes. riding @ 6pm. Ending at Sunset!"
+    },
+    {
+      "address": "800 Northeast Alberta Street, Portland",
+      "coordinates": [
+        -122.657364,
+        45.559031
+      ],
+      "description": "Come join us for a ride to the many different gardens of the Urban Farm Collective in Northeast! We will share with you our knowledge an...",
+      "id": "11-4972",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4972",
+      "location": "NE 8th ave. and Alberta",
+      "name": "NE URBAN GARDENS TOUR WITH URBAN FARM COLLECTIVE",
+      "time": "5:30pm"
+    },
+    {
+      "address": "1322 N Killingsworth St, Portland",
+      "coordinates": [
+        -122.680436755102,
+        45.5625708979592
+      ],
+      "description": "Ride to important PDX zine locations! Hear readings! The Portland Zine Symposium's Zinester's ride starts at Portland Button Works and e...",
+      "id": "11-5065",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-5065",
+      "location": "Portland Button Works, 1322 N Killingsworth",
+      "name": "ZINESTER'S RIDE",
+      "time": "5:30pm - 7:00pm, At 7pm we'll arrive at IPRC. At 7:30pm, the movie starts!"
+    },
+    {
+      "address": "3354 SE Powell Blvd Portland OR 97202",
+      "coordinates": [
+        -122.630107214286,
+        45.496717
+      ],
+      "description": "Bikes For Humanity PDX (B4HPDX) Thursdays Free Volunteer Mechanics Class8-week professionally instructed bicycle mechanics curriculum tr...",
+      "id": "11-4125",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4125",
+      "location": "B4HPDX Shop & Bike School, 3354 SE Powell Blvd Portland OR 97202",
+      "name": "B4HPDX FREE VOLUNTEER MECHANICS CLASS",
+      "time": "6:00pm - 9:00pm, Every Thursday"
+    },
+    {
+      "address": "2622 SE 25th Ave",
+      "coordinates": [
+        -122.640300346939,
+        45.5038633877551
+      ],
+      "description": "Join Pedal PT for the 3rd King Kamehameha Ride! Wear your best Hawaiian shirt, bring a tiki torch and get ready to RIDE a leisurely and ...",
+      "id": "11-5017",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-5017",
+      "location": "Pedal PT, 2622 SE 25th Ave",
+      "name": "KING KAMEHAMEHA RIDE AKA HAWAIIAN RIDE",
+      "time": "6:00pm"
+    },
+    {
+      "address": "Oregon Park, Portland",
+      "coordinates": [
+        -122.635211275213,
+        45.52790385
+      ],
+      "description": "We will be riding and listening to spanish music from Latin American, South America, and Spain.  We will be ending at a Spanish conversa...",
+      "id": "11-4967",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4967",
+      "location": "Oregon Park, NE Hoyt St and 29th Ave",
+      "name": "ESPANOL HOY!",
+      "time": "6:15pm - 9:15pm, We ride at 6:45 and will arrive at Portlandia Conversation Night at 7:30"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Follow the tunes from Irving Park (NE 11th & Klickitat side) to Rocky Butte for a potluck, sunset picnic and dance party. Dance 'til you...",
+      "id": "11-4987",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4987",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland (we meet at the east end of the park)",
+      "name": "ROCKY BUTTE SUNSET DANCE PARTY PICNIC",
+      "time": "7:00pm, we ride out at 7:30pm"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Thursday Night, the streets are ours. Come one, come all! Bring yr bike and your enthusiasm!!! We are going to RIDE, nice and easy in a ...",
+      "id": "11-4872",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#11-4872",
+      "location": "Salmon Street Fountain, SW Salmon St and Naito Pkwy",
+      "name": "THURSDAY NIGHT RIDE",
+      "time": "7:30pm"
+    }
+  ],
+  "12": [
+    {
+      "address": "400 Northeast Couch Street, Portland",
+      "coordinates": [
+        -122.661584,
+        45.523564
+      ],
+      "description": "The last Friday of every month for over 10 years now (and every Friday during June), the Shift community has been providing free pastrie...",
+      "id": "12-4983",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-4983",
+      "location": "Steel, Burnside, and Hawthorne bridges, Steel, Burnside, and Hawthorne bridges",
+      "name": "BREAKFAST ON THE BRIDGES",
+      "time": "7:00am - 9:00am, bike time"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Enjoy a Friday day ride up north of the border! Vancouver Lake is a fun but underused recreation spot just on the other side of the Colu...",
+      "id": "12-5019",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-5019",
+      "location": "Peninsula Park Pavilion, 700 N Rosa Parks Way",
+      "name": "VANCOUVER LAKE VENTURE",
+      "time": "11:00am, Ride at 11:15"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Why do we love bikes so much? Perhaps it's the sense of freedom they bring. Freedom of remembering how strong we are, how capable, how i...",
+      "id": "12-5091",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-5091",
+      "location": "Tom McCall Waterfront Park, SW Naito Pkwy and Main St",
+      "name": "LOVE YR BODY (DWTN) : ECSTATIC DANCE BY BIKE",
+      "time": "4:00pm - 7:00pm"
+    },
+    {
+      "address": "537 SE Ash St.",
+      "coordinates": [
+        -122.6599819,
+        45.5216177
+      ],
+      "description": "Where does Portland get its arboreal aroma, its burly bods, and coniferous cacidrosis? Majestic Mt. Hood National Forest, of course! Fri...",
+      "id": "12-4865",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-4865",
+      "location": "537 SE Ash St.",
+      "name": "TOUR DE FOREST: GET READY TO SAVE SOME TREES",
+      "time": "5:00pm - 6:30pm"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Love folding bikes? Fold fascinated? Fold curious? This is the ride for you. Whatever the type of folding bike, Bromptons, Citizens, Dah...",
+      "id": "12-4989",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-4989",
+      "location": "Salmon Street Springs Fountain, SW Naito Pkwy & Salmon St",
+      "name": "FOLDING RIDE",
+      "time": "5:00pm"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "A ride to celebrate the life and work of Robin Williams, comedian, actor, and cyclist. Costumes are STRONGLY encouraged, with a prize pa...",
+      "id": "12-4851",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-4851",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland",
+      "name": "ROBIN WILLIAMS MEMORIAL COSTUME RIDE",
+      "time": "6:30pm, Gather 6:30-7:30, ride 7:30"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Join 3 fine ladies as they complete their 33rd lap around the sun. & what's 33+33+33?? 99!!! Get ready to hear all the top hits of the y...",
+      "id": "12-4899",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-4899",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland (pavilion/basketball courts)",
+      "name": "PARTY LIKE IT'S NINETEEN 99!",
+      "time": "6:30pm, meet at 6:30, ride at 7."
+    },
+    {
+      "address": "921 SE 47th Ave.",
+      "coordinates": [
+        -122.61478880266,
+        45.51614625
+      ],
+      "description": "Horn, fangs, fur and claws are welcome. Ceramic handlebar monsters are awarded to the top 5 monstery bikers. The ride will be a fairly s...",
+      "id": "12-4877",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-4877",
+      "location": "921 SE 47th Ave. (Bikers will gather in the County parking lot and we'll return here at the end.)",
+      "name": "MONSTERIDE",
+      "time": "8:00pm - 9:30pm"
+    },
+    {
+      "address": "North, Southeast Division Street, Portland",
+      "coordinates": [
+        -122.6108285,
+        45.5051839
+      ],
+      "description": "*Calling all B-Boys & Fly-Girls!Yes, yes y'all and we don't stop! (4 years and running now !)Slow Rockin' ride BUMPING Run-DMC and Beast...",
+      "id": "12-5043",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#12-5043",
+      "location": "North Bar, 5008 SE Division St (Meet across the street in one of the parking lots)",
+      "name": "RUN-D.M.C. VS. BEASTIE BOYS",
+      "time": "8:00pm, Rolling out sometime after 8pm"
+    }
+  ],
+  "13": [
+    {
+      "address": "Beaverton Creek MAX Station, Beaverton",
+      "coordinates": [
+        -122.8333101,
+        45.500603
+      ],
+      "description": "Explore Aloha by bike! In a 4-mile family-friendly ride we'll check out 4 parks, the Aloha Library, a future farmers' market site and th...",
+      "id": "13-4935",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4935",
+      "location": "Beaverton Creek MAX Station, SW 153rd Drive, south of Jenkins (TriMet has permitted ride attendees to use the park & ride lot. Meet by the bike lockers/bus shelter!)",
+      "name": "ALOHA PARKS & SHOPS",
+      "time": "10:00am"
+    },
+    {
+      "address": "drinking water, Northwest Leif Erikson Drive",
+      "coordinates": [
+        -122.7254357,
+        45.5390939
+      ],
+      "description": "Let's start off by going to Forest Park and meet at the trail head of Leif Erikson at the end of NW Thurman street.This a great introduc...",
+      "id": "13-4980",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4980",
+      "location": "Forest Park Leif Erikson/Thurman trailhead, 4250 NW Leif Erikson Dr, Portland",
+      "name": "BEGINNER'S MOUNTAIN BIKING RIDE IN FOREST PARK",
+      "time": "10:00am"
+    },
+    {
+      "address": "4699 SE Center St, Portland",
+      "coordinates": [
+        -122.614273,
+        45.494264
+      ],
+      "description": "We will be involving the Creston Kenilworth neighborhood and Creston School to create a beautiful street painting at SE 47th and SE Cent...",
+      "id": "13-4956",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4956",
+      "location": "SE 47th and SE Center St",
+      "name": "CRESTON STREET  PAINTING & BLOCK PARTY",
+      "time": "11:00am - 4:00pm, June 13 - 14"
+    },
+    {
+      "address": "5128 N Albina Ave",
+      "coordinates": [
+        -122.674876571429,
+        45.5599798571429
+      ],
+      "description": "Come show off your vintage threads as you enjoy tea/coffee, pastries and shopping at the NE Red Fox Vintage.  We will then take a leisur...",
+      "id": "13-5075",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-5075",
+      "location": "Red Fox Vintage, 5128 N Albina Ave",
+      "name": "FOXY VINTAGE RIDE!",
+      "time": "11:00am - 2:00pm, At noon we Ride!!!"
+    },
+    {
+      "address": "2404 Southeast 49th Ave, Portland",
+      "coordinates": [
+        -122.611906058824,
+        45.5051564705882
+      ],
+      "description": "Stretching out with a longer ride (much of it off street/on bike paths) ending at OMSI for an optional visit of their \"Believe It or Not...",
+      "id": "13-5048",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-5048",
+      "location": "ala carts, 4926 Southeast Division Street Portland, OR 97206 (Meet near Scoop)",
+      "name": "ELLIE'S BELIEVE IT OR NOT! RIDE",
+      "time": "11:30am"
+    },
+    {
+      "address": "Clinton Park, Portland",
+      "coordinates": [
+        -122.604994182179,
+        45.50378005
+      ],
+      "description": "Another Pedalpalooza sing-a-long like last year's \"The Sound of Music\" bike ride. We'll make several stops on an 8-mile loop route singi...",
+      "id": "13-4798",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4798",
+      "location": "Clinton City Park, SE Woodward St & SE 57th Ave Portland, OR 97206 (Meet at the Southeast corner of Clinton Park by the playground)",
+      "name": "SING-A-LONG TO THE MOVIE \"GREASE\" RIDE",
+      "time": "12:00pm"
+    },
+    {
+      "address": "2700 NE 82nd Ave",
+      "coordinates": [
+        -122.577732149832,
+        45.54157205
+      ],
+      "description": "This is a real Stuntman Airbag, come on down and Flip out!There will be 3 age categories, prizes and lots of fun.",
+      "id": "13-4994",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4994",
+      "location": "Lumberyard Bike Park, 2700 NE 82nd Ave (across from Madison High School, old bowling alley)",
+      "name": "BMXMUSEUM / LUMBERYARD AIR BAG JAM",
+      "time": "12:00pm"
+    },
+    {
+      "address": "Werbin Property, Portland",
+      "coordinates": [
+        -122.608804305845,
+        45.5586433
+      ],
+      "description": "Ice caps melt, sea-level rises, weather gets weird, oceans acidify. The 6th great extinction is underway but the culture at-large acts l...",
+      "id": "13-5015",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-5015",
+      "location": "Khunamokwst Park, NE Alberta St & NE 52nd Ave",
+      "name": "TANK OF DOOM CARTOON RIDE",
+      "time": "12:00pm - 4:00pm"
+    },
+    {
+      "address": "River City Bicycles, Portland",
+      "coordinates": [
+        -122.6614298,
+        45.5178148
+      ],
+      "description": "Pregnant ladies still ride bikes. Let's take our bellies out for some fun and then drink milkshakes. We'll do an easy hour or two ride a...",
+      "id": "13-4796",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4796",
+      "location": "River City Bicycles, 706 SE MLK Blvd, Portland, OR (we'll meet in the parking lot)",
+      "name": "PREGOPALOOZA",
+      "time": "2:00pm - 3:30pm"
+    },
+    {
+      "address": "Clever Cycles, Portland",
+      "coordinates": [
+        -122.6564165,
+        45.5121337
+      ],
+      "description": "Join Kidical Mass PDX (\"Kids are traffic too!\") for a kid-friendly ride. We'll start at Clever Cycles and end at Lucky Lab Hawthorne, di...",
+      "id": "13-4922",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4922",
+      "location": "Clever Cycles, 908 SE Hawthorne Blvd (There's usually shade on the west side of SE 9th to assemble in.)",
+      "name": "LONGEST ROUTE ACROSS THE STREET WITH KIDICAL MASS",
+      "time": "2:00pm - 5:00pm, Ending time is approximate. We never know how long the kids will want to play at Jamison Square."
+    },
+    {
+      "address": "Creston Park, Portland",
+      "coordinates": [
+        -122.616566367442,
+        45.49592275
+      ],
+      "description": "We will string together sections of dirt and gravel back alleys of SE Portland to explore lesser known paths in this part of town.  This...",
+      "id": "13-4910",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4910",
+      "location": "Creston outdoor pool, 4454 SE Powell Blvd   Portland, OR",
+      "name": "SE BACK ALLEY BRAP AND BRAMBLE",
+      "time": "3:00pm"
+    },
+    {
+      "address": "1515 NW 23rd Ave",
+      "coordinates": [
+        -122.698866428571,
+        45.5335407142857
+      ],
+      "description": "Join us for a ride to one of Portland's oldest bars - We're riding the Leif Erickson to Skyline Tavern for drinks and food.Make sure to ...",
+      "id": "13-5061",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-5061",
+      "location": "Moberi NW, 1515 NW 23rd Ave",
+      "name": "RIDE TO SKYLINE TAVERN!",
+      "time": "3:00pm"
+    },
+    {
+      "address": "521 NE 24th Ave",
+      "coordinates": [
+        -122.641521318182,
+        45.5267040909091
+      ],
+      "description": "Bring your bike, your red hair, your red wig (if you're not a natural), and let us ride red!  PS it's free!",
+      "id": "13-4768",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4768",
+      "location": "The Ocean, 521 NE 24th Ave (at the picnic tables outside the ocean mini restaurants)",
+      "name": "THE GINGER RIDE",
+      "time": "6:00pm - 8:30pm, Meet at 6, ride at 7"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "Mobile pedal car karaoke with a disco theme! We'll sing and ride through our neighborhood ending at the Super Heroes Ride.  We'll provid...",
+      "id": "13-4985",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4985",
+      "location": "Colonel Sumner Park, SE 20th Ave and Belmont St (look for the musical pedalcar)",
+      "name": "PEDALCAR KARAOKE IV: DISCO BIKE-FERNO",
+      "time": "6:00pm - 8:30pm"
+    },
+    {
+      "address": "1969 NE 42nd Ave",
+      "coordinates": [
+        -122.620235,
+        45.53707275
+      ],
+      "description": "Which bike shop has the best bicycle mechanics in the city? Find out at the 2nd annual Bike Mechanic Challenge, a benefit for the Commun...",
+      "id": "13-4792",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4792",
+      "location": "VeloCult, 1969 NE 42nd Ave",
+      "name": "BIKE MECHANIC CHALLENGE",
+      "time": "6:30pm, 3.5 hours ending at 10pm"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "As the summer heat returns, supervillains crawl from the shadows, from beneath rocks and rotten logs to wreak havoc on our fair city. \"E...",
+      "id": "13-4855",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4855",
+      "location": "Col. Summers Park, SE 20th and Belmont (on the asphalt in the middle of the park)",
+      "name": "SUPERHERO(INE) RIDE!",
+      "time": "8:00pm - 9:30pm"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Officially the biggest bike party of the year, that doesn't ask you to take your clothes off(but hey, I won't stop you). Original organi...",
+      "id": "13-4833",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#13-4833",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland",
+      "name": "LOUD AND LIT RIDE",
+      "time": "10:00pm - 8:00am, party all fucking night"
+    }
+  ],
+  "14": [
+    {
+      "address": "Washington Park MAX",
+      "coordinates": [
+        -122.7164982,
+        45.5106174
+      ],
+      "description": "ZOOBOMB's annual death ride is back! 100 miles of downhill on a 16\" kid's bike. Only minibikes place in the top 3. All bikes, boards, co...",
+      "id": "14-4844",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4844",
+      "location": "Logs of Indecision, SW Knight and Fairview",
+      "name": "ZOOBOMB CENTURY",
+      "time": "10:00am"
+    },
+    {
+      "address": "Cartlandia, Portland",
+      "coordinates": [
+        -122.579427485936,
+        45.46393795
+      ],
+      "description": "Informal group skate from Cartlandia out towards Boring.  Ride runs up to 20 miles but you turn around when you like Everyone welcome! b...",
+      "id": "14-5009",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-5009",
+      "location": "Cartlandia , 8145 SE 82nd St., Portland, OR",
+      "name": "KILT SKATE #2",
+      "time": "10:00am"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "Rang Barse bike ride of colors!Inspired by the Indian \"Festival of Colors\", this should be one of the most colorful rides of Pedalpalooz...",
+      "id": "14-4919",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4919",
+      "location": "Col. Summers Park, SE 20th and Belmont (By the bathrooms and swings)",
+      "name": "RANG BARSE RIDE OF COLORS!",
+      "time": "11:00am - 12:30pm, Show up a little early to socialize, we'll ride at 11:15 sharp."
+    },
+    {
+      "address": "4699 SE Center St, Portland",
+      "coordinates": [
+        -122.614273,
+        45.494264
+      ],
+      "description": "We will be involving the Creston Kenilworth neighborhood and Creston School to create a beautiful street painting at SE 47th and SE Cent...",
+      "id": "14-4956",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4956",
+      "location": "SE 47th and SE Center St",
+      "name": "CRESTON STREET  PAINTING & BLOCK PARTY",
+      "time": "11:00am - 4:00pm, June 13 - 14"
+    },
+    {
+      "address": "Werbin Property, Portland",
+      "coordinates": [
+        -122.608804305845,
+        45.5586433
+      ],
+      "description": "Struggling to figure out something fun to do for you next Sunday family fun-day? Join us for an afternoon family bike ride through Portl...",
+      "id": "14-5025",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-5025",
+      "location": "K&#688;unamokwst Park, NE 52 Ave and NE Alberta St",
+      "name": "SUNDAY FUNDAY RIDE FOR THE EMERSON SCHOOL",
+      "time": "11:00am, Ride will leave at 11:15 am."
+    },
+    {
+      "address": "5421 N Greeley Ave, Portland",
+      "coordinates": [
+        -122.695737012786,
+        45.5622380410407
+      ],
+      "description": "Come celebrate our nations iconic symbol in all its glory and Majesty. Dress up your self and your bike in red while & blue regalia as w...",
+      "id": "14-4871",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4871",
+      "location": "Yorgos bar & grill, 5421 N Greely Ave",
+      "name": "BELLIGERANTE FLAGDAY RIDE*",
+      "time": "1:00pm"
+    },
+    {
+      "address": "Riverdale High School, Portland",
+      "coordinates": [
+        -122.684953851246,
+        45.45435575
+      ],
+      "description": "Join Tryon Creek Watershed Council as we explore Tryon Creek by bike! This bike tour allows you to fully experience how topography, cano...",
+      "id": "14-4800",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4800",
+      "location": "Riverdale High School , 9727 SW Terwilliger Blvd. Portland",
+      "name": "TRYON CREEK BIKE TOUR",
+      "time": "2:00pm - 5:00pm"
+    },
+    {
+      "address": "Vera Katz Eastbank Esplanade, Lloyd District, Portland",
+      "coordinates": [
+        -122.6661084,
+        45.5239937
+      ],
+      "description": "Episode VI: Return of the Undiscovered Country. The star bikes ride strong this year: we have it, Spock's Force Ghost has it, you have i...",
+      "id": "14-4927",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4927",
+      "location": "Floating bridge, East Bank Esplanade, under Burnside Bridge",
+      "name": "STAR WARS VS STAR TREK",
+      "time": "2:00pm, Gather at 2, ride starts at 2:30"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Have you ever wondered where to find some of Portland's little gems?This'll be a laid bike ride around Downtown and Northwest Portland O...",
+      "id": "14-4970",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4970",
+      "location": "Salmon Street Springs Fountain, SW Naito Pkwy & Salmon St",
+      "name": "HIDDEN TREASURES OF DOWNTOWN & NW",
+      "time": "3:00pm"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "Large single family homes and 4+ story apartments are sprouting up all over town, but how about anything in-between? Portland has a rich...",
+      "id": "14-5020",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-5020",
+      "location": "Colonel Sumner Park, SE 20th Ave and Belmont St (Basketball court)",
+      "name": "MISSING MIDDLE HOUSING RIDE",
+      "time": "3:00pm, 'til ~5pm; chance for food/hang-out afterwards"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Join our urban ramble! Meet in North Portland (bring your own drinks if you want - we'll also stop midway to enjoy some more), we'll rol...",
+      "id": "14-4934",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4934",
+      "location": "Peninsula City Park, N Ainsworth St & N Albina Ave (Underneath/Near the Gazebo)",
+      "name": "ALLEYS OF N & NE PORTLAND",
+      "time": "4:00pm"
+    },
+    {
+      "address": "4057 N Mississippi Ave",
+      "coordinates": [
+        -122.67573495,
+        45.55296275
+      ],
+      "description": "Put on your Sunday best, we're going on a classy bar crawl! Don your finest duds and ride around the inner east side to taste some class...",
+      "id": "14-4918",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-4918",
+      "location": "Interurban , 4057 N Mississippi Ave",
+      "name": "CLASS OUT THE ASS BAR CRAWL",
+      "time": "7:00pm, We leave the first bar at 8pm."
+    },
+    {
+      "address": "400 SW 13th Ave, Portland",
+      "coordinates": [
+        -122.684004,
+        45.522756
+      ],
+      "description": "Zoobomb is long running weekly bike event that meets every Sunday around 8:30PM near (13th & SW Burnside) in Portland OR. Bring a bike, ...",
+      "id": "14-3959",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#14-3959",
+      "location": "Zoobomb Pyle, SW 13th Ave & W Burnside",
+      "name": "ZOOBOMB",
+      "time": "8:30pm, Every Sunday"
+    }
+  ],
+  "15": [
+    {
+      "address": "Pioneer Courthouse Square, Portland",
+      "coordinates": [
+        -122.679327308895,
+        45.5188288
+      ],
+      "description": "Multnomah Bar Association noon time bicycle rides - short fast rides with hills.  Meet at SW corner of Pioneer Courthouse Square (Yamhil...",
+      "id": "15-4558",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#15-4558",
+      "location": "Pioneer Courthouse Square, SW Broadway and Morrison St",
+      "name": "PORTLAND LAWYER RIDE",
+      "time": "12:00pm - 1:30pm, Every Monday and Thursday"
+    },
+    {
+      "address": "1624 SE Woodward St Portland, OR 97202",
+      "coordinates": [
+        -122.649358632653,
+        45.5019815102041
+      ],
+      "description": "Let's art! We'll gather up our resources and ride to a couple attractive spots where we'll paint, draw, sculpt or whatever else we bring...",
+      "id": "15-4976",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#15-4976",
+      "location": "PAZ - Portland Autonomous Zone, 1624 SE Woodward St Portland, OR 97202",
+      "name": "MONDAY MULTIMEDIA",
+      "time": "3:00pm, Ride at 3:30"
+    },
+    {
+      "address": "Portland City Hall, University District",
+      "coordinates": [
+        -122.679116507877,
+        45.515023
+      ],
+      "description": "It's like Providence Bridge Pedal except free, slightly more dangerous, and dominated by speeding motor vehicles.",
+      "id": "15-4957",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#15-4957",
+      "location": "Portland City Hall, 1221 SW 4th Ave",
+      "name": "BARBUR BRIDGE PEDAL",
+      "time": "5:00pm"
+    },
+    {
+      "address": "5701 NE Fremont St",
+      "coordinates": [
+        -122.604366,
+        45.548323
+      ],
+      "description": "Our 6th year of hitting the best of what Cully has to offer. We'll be crashing 6-10 dive bars ending at karaoke so you better be able to...",
+      "id": "15-4783",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#15-4783",
+      "location": "Peter's Bar and Grill , 5701 NE Fremont St",
+      "name": "CULLY BAR CRAWL",
+      "time": "6:00pm, Meet at 6 ride leaves Peter's at 6:45"
+    },
+    {
+      "address": "2299 N Skidmore Ct, Portland",
+      "coordinates": [
+        -122.691282,
+        45.555124
+      ],
+      "description": "Ever wondered why one of Portland's largest industrial parks has such a pretty name? From sand bar to airport to shipyard to housing for...",
+      "id": "15-5030",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#15-5030",
+      "location": "Skidmore Bluffs, 2299 N Skidmore Ct, Portland",
+      "name": "SWAN ISLAND HISTORY RIDE",
+      "time": "6:00pm - 8:00pm, Riding down to the island via Going St at 6:30 sharp!"
+    }
+  ],
+  "16": [
+    {
+      "address": "1412 SE 12th Ave, Portland, OR",
+      "coordinates": [
+        -122.653558,
+        45.5127445714286
+      ],
+      "description": "The sun's up -- let's ride bikes! Meet at Tiny's, fill your thermos as needed, and head out for a ride in SE PDX. We'll finish by 8am, e...",
+      "id": "16-4936",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#16-4936",
+      "location": "Tiny's Coffeehouse, 1412 SE 12th Ave, Portland, OR",
+      "name": "MORNIN' RIDE!",
+      "time": "6:30am - 8:30am"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "All-day ride starting at \"the sea\"(Tom McCall waterfront park). We will be riding to points around the city corresponding with episodes ...",
+      "id": "16-4920",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#16-4920",
+      "location": "Tom MCall, SW Naito Pkwy and Main St",
+      "name": "BLOOMSDAY RIDE",
+      "time": "8:00am - 4:00pm, All-Day ride"
+    },
+    {
+      "address": "1810 NE 1st Avenue, Portland",
+      "coordinates": [
+        -122.664564591837,
+        45.5359675510204
+      ],
+      "description": "Attend a wrench night and learn to work on your bike! Bike Farm Women and Trans night is for all women and trans-identified people, and ...",
+      "id": "16-4685",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#16-4685",
+      "location": "Bikefarm, 305 NE Wygant St (one block north of NE Broadway)",
+      "name": "WOMEN & TRANS NIGHT AT BIKE FARM",
+      "time": "4:30pm - 7:30pm, First and Third Tuesday of every month"
+    },
+    {
+      "address": "618 NW Glisan St, Portland",
+      "coordinates": [
+        -122.676836714286,
+        45.5265310816327
+      ],
+      "description": "The BTA has been advocating for better, safer streets since 1990. In this free one-hour clinic, a BTA advocate will share some of the le...",
+      "id": "16-4959",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#16-4959",
+      "location": "Bicycle Transportation Alliance, 618 NW Glisan St., Suite 401",
+      "name": "ADVOCACY CLINIC",
+      "time": "6:00pm - 7:00pm"
+    },
+    {
+      "address": "2622 SE 25th Ave",
+      "coordinates": [
+        -122.640300346939,
+        45.5038633877551
+      ],
+      "description": "Calling all MDs, PTs, LMTs, DCs, DOs, NDs, PAs, LAcs and anyone else involved in the Portland area Health Community! Come join with the ...",
+      "id": "16-5023",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#16-5023",
+      "location": "Pedal PT, 2622 SE 25th Ave",
+      "name": "HEALTH PROFESSIONALS RIDE",
+      "time": "6:00pm"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Meet up and ride to a mystery destination to watch the sunset. Be prepared to relax and hang out at our destination (blankets, snacks an...",
+      "id": "16-4905",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#16-4905",
+      "location": "Peninsula Park, 700 N Rosa Parks Way (By the Swimming Pool)",
+      "name": "SUNSET MYSTERY RIDE",
+      "time": "6:45pm, Meet at 6:45.  Roll at 7:15 to catch the sunset."
+    },
+    {
+      "address": "1708 E Burnside St, Portland",
+      "coordinates": [
+        -122.648304795918,
+        45.5228078367347
+      ],
+      "description": "Join Razorblades Scooter Gang on our monthly scoot. All push/scootable vehicles are acceptable (scooters, skateboards, longboards, rolle...",
+      "id": "16-4973",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#16-4973",
+      "location": "Fire on the Mountain, 1708 E Burnside St, Portland",
+      "name": "RAZORBLADES JUNE SCOOT",
+      "time": "7:00pm"
+    }
+  ],
+  "17": [
+    {
+      "address": "7858 NE Alameda St",
+      "coordinates": [
+        -122.582435468085,
+        45.5426217021277
+      ],
+      "description": "Did you ever want to ride your bike from Madison High School to Cartlandia? Are you mad at how poor biking infrastructure is through the...",
+      "id": "17-4971",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#17-4971",
+      "location": "Madison High School, 7858 NE Alameda St",
+      "name": "MADLANDIA: RIDING THE 82ND CORRIDOR",
+      "time": "5:30pm"
+    },
+    {
+      "address": "1700 NE Alberta St",
+      "coordinates": [
+        -122.647587,
+        45.559001
+      ],
+      "description": "Visit half a dozen sites related to the vibrant bike non-profit community and increased bike accessibility, safety, and empowerment in P...",
+      "id": "17-4777",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#17-4777",
+      "location": "Community Cycling Center, 1700 NE Alberta St",
+      "name": "THE WONDERFUL WORLD OF BIKE NON-PROFITS",
+      "time": "6:00pm - 8:00pm"
+    },
+    {
+      "address": "South Park Blocks, Southwest 9th Avenue, University District, Portland",
+      "coordinates": [
+        -122.684991954537,
+        45.51205515
+      ],
+      "description": "Bike PSU is a new bicycle advocacy group formed to improve bicycle access to and within the Portland State University campus in downtown...",
+      "id": "17-5022",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#17-5022",
+      "location": "SW Montgomery Ave and SW Park Ave (We will meet on the park blocks of PSU campus)",
+      "name": "BICYCLING IN THE UNIVERSITY DISTRICT WITH BIKE PSU",
+      "time": "6:00pm - 7:30pm"
+    },
+    {
+      "address": "1810 NE 1st Avenue, Portland",
+      "coordinates": [
+        -122.664564591837,
+        45.5359675510204
+      ],
+      "description": "Attend our monthly volunteer orientation to find out more about Bike Farm and how you can help. Mechanics, activists, artists, engineers...",
+      "id": "17-4097",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#17-4097",
+      "location": "Bike Farm, 1810 NE First Avenue",
+      "name": "VOLUNTEER AT BIKE FARM",
+      "time": "6:30pm - 7:00pm, Third Wednesday of every month"
+    },
+    {
+      "address": "The Portland Building",
+      "coordinates": [
+        -122.678706794525,
+        45.51560455
+      ],
+      "description": "Portland has its fair share of oversized mascots as well as some big murals, neon signs, and other super-sized things of note. Carye Bye...",
+      "id": "17-5051",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#17-5051",
+      "location": "Portlandia Statue, 1120 SW 5th Avenue (Meet across the street)",
+      "name": "PORTLAND AT LARGE",
+      "time": "6:30pm"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Gather together and gear up for the summer solstice! The solstice is a time for renewal, and we all know Pedalpalooza heralds the arrive...",
+      "id": "17-4878",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#17-4878",
+      "location": "Peninsula Park , 700 N Rosa Parks Way (On the south side by Ainsworth/the Rose Garden)",
+      "name": "MOBILE METAMORPHIC EFFIGY ERADICATION RIDE",
+      "time": "7:00pm, Ride at 7:30!"
+    }
+  ],
+  "18": [
+    {
+      "address": "Southeast Grind, Portland",
+      "coordinates": [
+        -122.652423715567,
+        45.5009378
+      ],
+      "description": "Get up early and cruise peacefully around Portland's streets with no plan and not very many cars in sight. We'll head for a breakfast pl...",
+      "id": "18-4825",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4825",
+      "location": "Southeast Grind, 1223 SE Powell",
+      "name": "WORLD WITHOUT CARS",
+      "time": "4:00am"
+    },
+    {
+      "address": "Pioneer Courthouse Square, Portland",
+      "coordinates": [
+        -122.679327308895,
+        45.5188288
+      ],
+      "description": "Multnomah Bar Association noon time bicycle rides - short fast rides with hills.  Meet at SW corner of Pioneer Courthouse Square (Yamhil...",
+      "id": "18-4558",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4558",
+      "location": "Pioneer Courthouse Square, SW Broadway and Morrison St",
+      "name": "PORTLAND LAWYER RIDE",
+      "time": "12:00pm - 1:30pm, Every Monday and Thursday"
+    },
+    {
+      "address": "Portland City Hall, University District",
+      "coordinates": [
+        -122.679116507877,
+        45.515023
+      ],
+      "description": "Portland's Safe Routes to School program has expanded their offerings to older students.  Middle school is an important time to foster i...",
+      "id": "18-5000",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-5000",
+      "location": "City Hall, 1221 SW 4th Ave (2nd floor, Lovejoy Room)",
+      "name": "SAFE ROUTES TO MIDDLE SCHOOL LUNCH AND LEARN",
+      "time": "12:00pm - 1:00pm, Bring your lunch!"
+    },
+    {
+      "address": "3354 SE Powell Blvd Portland OR 97202",
+      "coordinates": [
+        -122.630107214286,
+        45.496717
+      ],
+      "description": "Bikes For Humanity PDX (B4HPDX) Thursdays Free Volunteer Mechanics Class8-week professionally instructed bicycle mechanics curriculum tr...",
+      "id": "18-4125",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4125",
+      "location": "B4HPDX Shop & Bike School, 3354 SE Powell Blvd Portland OR 97202",
+      "name": "B4HPDX FREE VOLUNTEER MECHANICS CLASS",
+      "time": "6:00pm - 9:00pm, Every Thursday"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Bring your Schwinn Stingray or other Muscle Bike from the 60s-70s. This ride is for bikes with banana seats on them ONLY; all cruiser sa...",
+      "id": "18-4961",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4961",
+      "location": "Peninsular Park, 700 N Rosa Parks Way (Near the rose gardens)",
+      "name": "N. PORTLAND STINGRAY RIDE",
+      "time": "6:00pm, Meet at 6pm Ride at 7pm"
+    },
+    {
+      "address": "Hatfield Government Center, Hillsboro",
+      "coordinates": [
+        -122.9910759,
+        45.5222072
+      ],
+      "description": "Are you a remote employee or do you have a job that lets you work from home sometimes?  Let's take advantage of that freedom, and -- ins...",
+      "id": "18-4965",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4965",
+      "location": "Hatfield Government Center MAX Station, Hillsboro, OR, 100 SW Adams Ave, Hillsboro (From here, we'll head up the hill to LL Stub Stewart SP)",
+      "name": "WORKFROMBIKE (CAMPING & CO-WORKING FROM THE WOODS)",
+      "time": "6:00pm, Camping Thursday night & working all day Friday."
+    },
+    {
+      "address": "3368 NE Rodney Ave, Portland",
+      "coordinates": [
+        -122.66397522449,
+        45.5472095510204
+      ],
+      "description": "Join BikeLoudPDX to ride Portland's bikeways to learn to request improvements!  We'll have maps & plans, contact info for complaints & s...",
+      "id": "18-5073",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-5073",
+      "location": "NE Rodney at Ivy (Rodney 1 block south of Fremont)",
+      "name": "TRANSPORT YOUR ACTIVISM",
+      "time": "6:00pm - 8:00pm, Roll at 6:15"
+    },
+    {
+      "address": "Skidmore Fountain, Portland",
+      "coordinates": [
+        -122.67109157541,
+        45.52241045
+      ],
+      "description": "Ride between the Steel and Sellwood Bridges along the River front.  11 mile loop. Then it's time for VooDoo Donuts!",
+      "id": "18-4793",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4793",
+      "location": "Skidmore Fountain, SW 1st Ave and Ankeny St",
+      "name": "WILLAMETTE RIVER TO VOODOO",
+      "time": "6:15pm"
+    },
+    {
+      "address": "938 North Cook St",
+      "coordinates": [
+        -122.67606319779,
+        45.54625985
+      ],
+      "description": "Explore the forest and the evening on this loop. We will discuss bike travel and camping stories over a pint at 6:30 PM at Liberty Glass...",
+      "id": "18-4986",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4986",
+      "location": "Liberty Glass Bar, 938 North Cook St",
+      "name": "WILD WOODS RIDE",
+      "time": "6:30pm, We will meet up at 6:30pm at the pub and leave at 7:30pm"
+    },
+    {
+      "address": "Ladd Circle, Portland",
+      "coordinates": [
+        -122.649415394035,
+        45.508535
+      ],
+      "description": "Great Scott! The history of the bicycle is shrouded in mystery! The Working Theatre Collective is proud to present a play that invites a...",
+      "id": "18-4988",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4988",
+      "location": "Ladd Circle, 1600 SE Harrison St",
+      "name": "BIKE PLAY 7: TIME CYCLE",
+      "time": "6:30pm, Meet up at 6:30, show starts promptly at 7:00pm, June 18 - 21"
+    },
+    {
+      "address": "Dawson Park, Portland",
+      "coordinates": [
+        -122.667396505677,
+        45.5441253
+      ],
+      "description": "Ride your HEAVY ASS bike up a STEEP ASS hill. The Heavy Bike Hill Climb Challenge, Pedalpalooza's most challenging ride, is back for its...",
+      "id": "18-4857",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4857",
+      "location": "Dawson Park, 101 N Stanton St (Look for the group with heavy ass bikes)",
+      "name": "HEAVY BIKE HILL CLIMB CHALLENGE",
+      "time": "7:00pm, Pittock Park closes at sunset"
+    },
+    {
+      "address": "475 N Killingsworth St, Portland",
+      "coordinates": [
+        -122.670941142857,
+        45.5627794285714
+      ],
+      "description": "We're bringing it back folks! Bring your groovy wigs, bedazzled garb, grandma's chunky jewelry, and some cash-o-la. Ride starts at Flori...",
+      "id": "18-4901",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4901",
+      "location": "Florida Room, 435 N Killingsworth St",
+      "name": "PHOTOBOOTH RIDE",
+      "time": "7:00pm"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Thursday Night, the streets are ours. Come one, come all! Bring yr bike and your enthusiasm!!! We are going to RIDE, nice and easy in a ...",
+      "id": "18-4873",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#18-4873",
+      "location": "Salmon Street Fountain, SW Salmon St and Naito Pkwy",
+      "name": "THURSDAY NIGHT RIDE",
+      "time": "7:30pm"
+    }
+  ],
+  "19": [
+    {
+      "address": "400 Northeast Couch Street, Portland",
+      "coordinates": [
+        -122.661584,
+        45.523564
+      ],
+      "description": "The last friday of every month for over 10 years now (and every Friday during June), the Shift community has been providing free pastrie...",
+      "id": "19-4984",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-4984",
+      "location": "Steel, Burnside, and Hawthorne bridges, Steel, Burnside, and Hawthorne bridges",
+      "name": "BONB",
+      "time": "7:00am - 9:00am, bike time"
+    },
+    {
+      "address": "Normandale Park, Portland",
+      "coordinates": [
+        -122.606328119174,
+        45.53184995
+      ],
+      "description": "DOGS ON BIKES! DOGS ON BIKES! (And if it's anything like last year there'll be a cat in a backpack and a bird on a shoulder.) Pull out y...",
+      "id": "19-5001",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-5001",
+      "location": "Normandale Park, NE 55th Ave and NE Wasco St (Meet at the fenced-in dog park area.)",
+      "name": "PUPPY-PALOOZA!",
+      "time": "6:00pm, Meet at 6:00 - Leave around 6:30"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Teach your son the right way to be a hobo, before he learns it on the streets. Daughters welcome too. No helicopters. It should go witho...",
+      "id": "19-5080",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-5080",
+      "location": "Peninsula Park Rose Garden, N Albina Ave and Ainsworth St",
+      "name": "FATHER-SON SUB-24 HOUR CAMPING TRIP",
+      "time": "6:00pm"
+    },
+    {
+      "address": "Ladd Circle, Portland",
+      "coordinates": [
+        -122.649415394035,
+        45.508535
+      ],
+      "description": "Bring a bottle or two of cold bubbly and don fine apparel that befits the elegance of the drink and occasion. It will be a light ride mo...",
+      "id": "19-4860",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-4860",
+      "location": "Ladd Circle, 1600 SE Harrison St",
+      "name": "CHAMPAGNE RIDE",
+      "time": "6:30pm - 9:00pm, We leave promptly at 7."
+    },
+    {
+      "address": "Ladd Circle, Portland",
+      "coordinates": [
+        -122.649415394035,
+        45.508535
+      ],
+      "description": "Great Scott! The history of the bicycle is shrouded in mystery! The Working Theatre Collective is proud to present a play that invites a...",
+      "id": "19-4988",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-4988",
+      "location": "Ladd Circle, 1600 SE Harrison St",
+      "name": "BIKE PLAY 7: TIME CYCLE",
+      "time": "6:30pm, Meet up at 6:30, show starts promptly at 7:00pm, June 18 - 21"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "Our fifth annual alphabetical tournament ride, brought to you by the letter G! Ride to four parks/bars, competing as a 2-person team at ...",
+      "id": "19-5050",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-5050",
+      "location": "Col. Summers Park, SE 20th and Belmont (Near the softball field)",
+      "name": "GEARS, GROG, GOLF, GRENADES, GESTURES & GO FISH",
+      "time": "6:30pm - 8:30pm"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Why do we love bikes so much? Perhaps it's the sense of freedom they bring. Freedom of remembering how strong we are, how capable, how i...",
+      "id": "19-5090",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-5090",
+      "location": "Penninsula Park, 700 N Rosa Parks Way",
+      "name": "LOVE YR BODY: ECSTATIC DANCE BY BIKE",
+      "time": "7:00pm - 10:00pm, hanging out after highly encouraged! BYOB"
+    },
+    {
+      "address": "Base Camp Brewing, Portland",
+      "coordinates": [
+        -122.656361576339,
+        45.5198833
+      ],
+      "description": "Easy 6-mile fun ride in the city. We will ride to different locations and do some long exposure light painting photography. Wear or brin...",
+      "id": "19-4926",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-4926",
+      "location": "Base Camp Brewing, SE 9th and Oak (This is a bar. Be aware.)",
+      "name": "PAINT THE NIGHT WITH LIGHT PHOTOGRAPHY RIDE",
+      "time": "8:00pm - 11:00pm"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "Let's not kid ourselves we are just going to have rad bike party, like we have since this all started.  Dress up in your finest Prom att...",
+      "id": "19-4763",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#19-4763",
+      "location": "Col. Summers Park, SE 20th and Belmont",
+      "name": "DROPOUT PROM RIDE",
+      "time": "9:00pm - 5:00am, We ride at 10pm!"
+    }
+  ],
+  "20": [
+    {
+      "address": "901 Southeast Ankeny, Portland",
+      "coordinates": [
+        -122.656478,
+        45.522287
+      ],
+      "description": "Darwin- & Elevation-themed citywide scavenger hunt. Let it sink in.  This. Is. It. Teams of 3-5 (assigned if solo) find clues around Por...",
+      "id": "20-4966",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4966",
+      "location": "Evolution Healthcare & Fitness, SE 9th Ave. & Ankeny",
+      "name": "DARWIN & ALTITUDE BICYCLE SCAVENGER HUNT",
+      "time": "10:30am - 4:30pm, Hunt is 11a-4p.  Beer, cider, massage, acupuncture, music, food & more afterward."
+    },
+    {
+      "address": "Jamison Square, Portland",
+      "coordinates": [
+        -122.68186156755,
+        45.52904765
+      ],
+      "description": "Pack your lunch and a blanket for this short LGBT-friendly ride starting at Jamison Square in the Pearl. We will then go for a leisurely...",
+      "id": "20-4830",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4830",
+      "location": "Jamison Square, NW 10th and Johnson (Jamison Square, Pearl District at NW Johnson St & NW 10th Ave)",
+      "name": "PRIDE RIDE & PICNIC",
+      "time": "10:45am, meet-up, 11:00am departure"
+    },
+    {
+      "address": "Alberta Park, Portland",
+      "coordinates": [
+        -122.644774346626,
+        45.56448535
+      ],
+      "description": "A mellow ride for Sweetpea owners and those who'd like to meet them. Led by Sweetpea Bicycles designer and frame builder Natalie Ramslan...",
+      "id": "20-4909",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4909",
+      "location": "Alberta Park , NE Ainsworth + NE 22nd Avenue (by the polo court)",
+      "name": "THE SWEETPEEPS RIDE",
+      "time": "11:00am"
+    },
+    {
+      "address": "6912 N Ida Ave, Portland",
+      "coordinates": [
+        -122.741403626715,
+        45.5825825149817
+      ],
+      "description": "Oil trains hauling Bakken crude oil and Tarsands oil have been exploding across the US and Canda for the last two years. The Port of Por...",
+      "id": "20-5004",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5004",
+      "location": "N WIllamette Blvd and N Ida Ave",
+      "name": "OIL TRAIN BLAST ZONE RIDE",
+      "time": "11:00am"
+    },
+    {
+      "address": "122 NE Broadway",
+      "coordinates": [
+        -122.664364714286,
+        45.5350137755102
+      ],
+      "description": "You're gonna sweat for this itinerary of sweet stops including a small-batch chocolate factory to start this year's bike ride exploring ...",
+      "id": "20-5045",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5045",
+      "location": "Creo Chocolate, 122 NE Broadway",
+      "name": "SWEAT FOR SWEETS III",
+      "time": "11:15am, Chocolate Tour starts at 11:30am"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Rust is not a crime! And rust ain't always bad...it can even be aesthetically flippin' GLORIOUS! Pedal your rusty trusty iron pony to th...",
+      "id": "20-4786",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4786",
+      "location": "Salmon Street Fountain, SW Salmon St and Naito Pkwy",
+      "name": "INAUGURAL RUST RIDE",
+      "time": "12:00pm - 2:00pm, Noon: show up and show off. Noon-thirty: we pedal our creaky cranks outathere"
+    },
+    {
+      "address": "1028 SE Water Ave 97214",
+      "coordinates": [
+        -122.665589,
+        45.515185
+      ],
+      "description": "Join us on our fourth annual Swim Across Portland! Don your best bathing suit, grab a towel, a lock, and twelve dollars American, and yo...",
+      "id": "20-4818",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4818",
+      "location": "Water Avenue Coffee, 1028 SE Water",
+      "name": "SWIM ACROSS PORTLAND",
+      "time": "12:00pm - 5:00pm, Duration is a guess."
+    },
+    {
+      "address": "13500 SW Hall Blvd",
+      "coordinates": [
+        -122.764891123607,
+        45.42260935
+      ],
+      "description": "Its summertime, and the weather is wonderful! Bring your bike and helmet to the library for an outdoor adventure. The Bicycle Transporta...",
+      "id": "20-4979",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4979",
+      "location": "Tigard Public Library, 13500 SW Hall Blvd",
+      "name": "GET ROLLING, TIGARD!",
+      "time": "1:00pm, Workshop starts at 1 pm, ride starts about 1:45 pm."
+    },
+    {
+      "address": "401 Southeast Caruthers, Portland, 97214",
+      "coordinates": [
+        -122.663272524138,
+        45.505962
+      ],
+      "description": "We'll have an Open House for our new shop, and Grant Petersen, founder of Rivendell Bicycle Works, will say a few words around 2:30PM. A...",
+      "id": "20-5096",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5096",
+      "location": "Rivelo, 401 SE Caruthers, Suite 103 (At the corner of Water Avenue and Tilikum Way)",
+      "name": "GRANT PETERSEN TALK AND RIVELO OPEN HOUSE",
+      "time": "2:00pm - 3:30pm"
+    },
+    {
+      "address": "4500 Southeast Stark Street, Portland, 97215",
+      "coordinates": [
+        -122.615952,
+        45.519196
+      ],
+      "description": "Philly fans unite! We'll listen to Boyz II Men, Hall & Oates and whatever other Philly delights and bike to various Philly-inspired esta...",
+      "id": "20-4852",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4852",
+      "location": "Italian Market (at Belmont Station), 4500 SE Stark (Italian Market is a food cart located behind Belmont Station)",
+      "name": "PHILADELPHIA FREEDOM RIDE",
+      "time": "2:00pm"
+    },
+    {
+      "address": "Patton Square Park, Portland",
+      "coordinates": [
+        -122.681622749985,
+        45.561546
+      ],
+      "description": "Portland's Heritage Trees are one very large green part of our beautiful city. These special trees will be the focus of a 10 mile meande...",
+      "id": "20-4876",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4876",
+      "location": "Patton Square City Park, N. Interstate and N. Emerson",
+      "name": "HERITAGE TREES OF NOPO",
+      "time": "2:15pm - 4:15pm, We will depart en masses at 2:30pm"
+    },
+    {
+      "address": "Vera Katz Statue, Portland",
+      "coordinates": [
+        -122.6682271,
+        45.513846
+      ],
+      "description": "Respect the Cascadia Subduction Zone and join us for a ride punctuated by tips to get you prepared for The Big One. This ride will be jo...",
+      "id": "20-5058",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5058",
+      "location": "Eastbank Esplanade, 5 SE Madison St, Portland (Vera Katz statue)",
+      "name": "DISASTER! RIDE",
+      "time": "3:00pm - 4:30pm"
+    },
+    {
+      "address": "1010 SW Park Ave, Portland, OR 97205",
+      "coordinates": [
+        -122.681656469388,
+        45.5174213061225
+      ],
+      "description": "We ride until we find a natural end point. Feel free to bail whenever you wanna go somewhere else.Back for its 6th year, Get Lost! is a ...",
+      "id": "20-5106",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5106",
+      "location": "Shemanski Park, 1010 SW Park Ave, Portland, OR 97205",
+      "name": "GET LOST!",
+      "time": "3:30pm"
+    },
+    {
+      "address": "Woodlawn Park, Portland",
+      "coordinates": [
+        -122.654082582231,
+        45.5725545
+      ],
+      "description": "A slow ride through some of the northernmost neighborhoods in the city. We will be starting in Woodlawn park, near the overpass (NE Clar...",
+      "id": "20-5024",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5024",
+      "location": "Woodlawn Park (under the bridge), NE Dekum St and Bellevue Ave",
+      "name": "N/NE CRUISE",
+      "time": "4:00pm"
+    },
+    {
+      "address": "Lone Fir Cemetery, Portland",
+      "coordinates": [
+        -122.642193267926,
+        45.5186182
+      ],
+      "description": "This is a ride for people who love Ravens, Rooks, Jackdaws, Jays, Nuthatches, and of course, CROWS!!!! Dress as your favorite corvid, or...",
+      "id": "20-4868",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4868",
+      "location": "Lone Fir Cemetery, SE Morrison St and 27th Ave",
+      "name": "CROW RIDE",
+      "time": "5:00pm"
+    },
+    {
+      "address": "Ladd Circle, Portland",
+      "coordinates": [
+        -122.649415394035,
+        45.508535
+      ],
+      "description": "Great Scott! The history of the bicycle is shrouded in mystery! The Working Theatre Collective is proud to present a play that invites a...",
+      "id": "20-4988",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4988",
+      "location": "Ladd Circle, 1600 SE Harrison St",
+      "name": "BIKE PLAY 7: TIME CYCLE",
+      "time": "6:30pm, Meet up at 6:30, show starts promptly at 7:00pm, June 18 - 21"
+    },
+    {
+      "address": "6423 N Interstate Avenue",
+      "coordinates": [
+        -122.682266653061,
+        45.5693654081633
+      ],
+      "description": "Cruise up to the 8th Annual Rose City Roundup Hot Rod Show at Jubitz Travel Center. This year the organizers, Driven Dead Car Club, are ...",
+      "id": "20-4862",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4862",
+      "location": "Night Hawk Cafe and Lounge, 6423 N Interstate Avenue",
+      "name": "RIDE UP TO THE ROUND UP",
+      "time": "7:00pm, Ride at 7:30"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "We are lovers of Lebowski, bikers of the city with the necessary means for a necessary means for taking 'er easy. Come out with your bes...",
+      "id": "20-4882",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4882",
+      "location": "Col. Summers Park, SE 20th and Belmont (next to tennis courts)",
+      "name": "LITTLE LEBOWSKI URBAN ACHIEVERS RIDE",
+      "time": "7:00pm"
+    },
+    {
+      "address": "6340, Southeast Foster Road, Foster-Powell, Woodstock, Portland",
+      "coordinates": [
+        -122.598212,
+        45.490147
+      ],
+      "description": "Fat Yoga and Uplift PDX are teaming up to host the first annual Fat Pride Ride & Fat Talk! We're making sure Pedalpalooza is inclusive t...",
+      "id": "20-5105",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5105",
+      "location": "Fat Yoga PDX, 6340 SE Foster",
+      "name": "FAT PRIDE RIDE / FAT TALK: FOR THE LOVE OF FAT",
+      "time": "7:00pm"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Come join Austin Powers, Dr. Evil,Mini-Me, and the Fembots on this shagalicious ride thru Ladd's Addition and the SW Waterfront and re-l...",
+      "id": "20-4842",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4842",
+      "location": "At the Fountain (Salmon St. Springs) , 1000 SW Naito Pkwy, Portland, Or. 97204 (Meet at the Fountain)",
+      "name": "AUSTIN POWERS RIDE",
+      "time": "7:30pm"
+    },
+    {
+      "address": "Vera Katz Statue, Portland",
+      "coordinates": [
+        -122.6682271,
+        45.513846
+      ],
+      "description": "We'll meet up and take a short ride to an outdoor venue where we'll watch a movie or two.  We'll ride at 8:30, and the show starts at 9:...",
+      "id": "20-4744",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-4744",
+      "location": "Vera Katz Statue, SE Eastbank Esplanade and Main St",
+      "name": "BIKE-IN MOVIE",
+      "time": "8:30pm - 12:30am, Ride at 8:30, show starts at 9:00"
+    },
+    {
+      "address": "525 SW Morrison St",
+      "coordinates": [
+        -122.6780724,
+        45.5190577
+      ],
+      "description": "See the city from a different perspective.Drink at the rooftop bar at 10:30. Ride at 11.",
+      "id": "20-5063",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#20-5063",
+      "location": "Departure Restaurant & Lounge, 525 SW Morrison St",
+      "name": "ROOFTOP RIDE",
+      "time": "10:30pm"
+    }
+  ],
+  "21": [
+    {
+      "address": "10722 Southeast Main Street Milwaukie, OR 97222",
+      "coordinates": [
+        -122.641420959184,
+        45.4453187755102
+      ],
+      "description": "Come check out the Crystal Springs Creek headwaters and watershed.  Ride starts and ends at Milwaukie City Hall. We will head up the Spr...",
+      "id": "21-5039",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5039",
+      "location": "Milwaukie City Hall, 10722 Southeast Main Street Milwaukie, OR 97222",
+      "name": "CRYSTAL SPRINGS WATERSHED",
+      "time": "9:30am - 12:00pm"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Petersen-Style Ride or Petersen Style-Ride? It's Pedalpalooza, you get to choose your own adventure! Brisk pace to an unknown destinatio...",
+      "id": "21-4870",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-4870",
+      "location": "Peninsula Park Rose Garden, N Albina Ave and Ainsworth St",
+      "name": "PETERSEN STYLE RIDE",
+      "time": "10:00am"
+    },
+    {
+      "address": "Hatfield Government Center, Hillsboro",
+      "coordinates": [
+        -122.9910759,
+        45.5222072
+      ],
+      "description": "Ride from downtown Hillsboro out to Dixie Mtn Rd and climb up several miles of dirt.  We will then work our way back towards Skyline and...",
+      "id": "21-4993",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-4993",
+      "location": "Hatfield Government Center MAX stop, SW Adams & E Main St, Hillsboro OR (end of MAX line in Hillsboro)",
+      "name": "DIXIE MOUNTAIN & HELVETIA TAVERN",
+      "time": "10:00am"
+    },
+    {
+      "address": "Holladay Park, Portland",
+      "coordinates": [
+        -122.653571934643,
+        45.5307412
+      ],
+      "description": "We'll be swarming the streets of Portland, making note of everything that people on bikes (or people creating infrastructure for bikes) ...",
+      "id": "21-5006",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5006",
+      "location": "Holladay Park, NE Multnomah betw NE 11th & 13th (Smack in the middle of the park)",
+      "name": "MAPPING PDX'S COOL BIKE STUFF",
+      "time": "10:00am"
+    },
+    {
+      "address": "Cartlandia, Portland",
+      "coordinates": [
+        -122.579427485936,
+        45.46393795
+      ],
+      "description": "Informal group skate from Cartlandia out towards Boring.  Ride runs up to 20 miles but you can turn around when you like Everyone welcom...",
+      "id": "21-5011",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5011",
+      "location": "Cartlandia , 8145 SE 82nd St., Portland, OR",
+      "name": "KILT SKATE #3",
+      "time": "10:00am"
+    },
+    {
+      "address": "Peninsula Park, Portland",
+      "coordinates": [
+        -122.673600920667,
+        45.56816905
+      ],
+      "description": "Have a missing person you need to stash for a few weeks while waiting on the expedite for your passport to come back? This ride will tou...",
+      "id": "21-5082",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5082",
+      "location": "Peninsula Park Rose Garden, N Albina Ave and Ainsworth St",
+      "name": "DEAD BODY DISPOSAL RIDE",
+      "time": "10:00am - 12:00pm"
+    },
+    {
+      "address": "Kenton Park, Portland",
+      "coordinates": [
+        -122.690603921869,
+        45.5837455
+      ],
+      "description": "Sunday Parkways North Portland opens a 9.5 mile course to people on foot, bikes, and other human-powered conveyance.  Visit 5 parks for ...",
+      "id": "21-4916",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-4916",
+      "location": "Kenton Park, 8417 N Brandon Ave (also: peninsula, arbor lodge, mccoy, and columbia annex parks)",
+      "name": "SUNDAY PARKWAYS NORTH",
+      "time": "11:00am - 4:00pm, ride anytime!"
+    },
+    {
+      "address": "Kenton Park, Portland",
+      "coordinates": [
+        -122.690603921869,
+        45.5837455
+      ],
+      "description": "How many Parkways loops can your ebike do, on one charge, one battery?  Let's find out!  Look for the sign, \"eBike Challenge.\"  This is ...",
+      "id": "21-5108",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5108",
+      "location": "Sunday Parkways, Kenton Park 8417 N Brandon Avenue (eBike Challenge sign)",
+      "name": "SUNDAY PARKWAYS EBIKE CHALLENGE",
+      "time": "11:00am"
+    },
+    {
+      "address": "Alberta Park, Portland",
+      "coordinates": [
+        -122.644774346626,
+        45.56448535
+      ],
+      "description": "Dress up like your favorite character and bring your Alamo beer, we'll hit the alleys and act out scenes from everyone's favorite sitcom...",
+      "id": "21-5057",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5057",
+      "location": "Alberta Park, NE Ainsworth + NE 22nd Avenue (Near the Bike Polo cage)",
+      "name": "KING OF THE HILL RIDE",
+      "time": "3:00pm"
+    },
+    {
+      "address": "Ladd Circle, Portland",
+      "coordinates": [
+        -122.649415394035,
+        45.508535
+      ],
+      "description": "\"Incredible!\" \"Amazing!\" \"Really very special!\" These are some things that I imagine people saying after this relaxed and informative bi...",
+      "id": "21-5059",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5059",
+      "location": "Ladd Circle, 1600 SE Harrison St",
+      "name": "THE LIFE AND TIMES OF HERNIA ROSE",
+      "time": "3:30pm - 4:30pm"
+    },
+    {
+      "address": "2300 North Ainsworth Street, Portland",
+      "coordinates": [
+        -122.690589,
+        45.566265
+      ],
+      "description": "What better way to finish Sunday Parkways than ramble around the northern reaches of Portland on your humble internally geared three spe...",
+      "id": "21-4765",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-4765",
+      "location": "Omaha Parkway, N Omaha Av at Ainsworth St (same spot as last year, in the parkway strip)",
+      "name": "THREE SPEED RIDE",
+      "time": "4:00pm - 7:00pm, meet at 4, leave just before 4:30"
+    },
+    {
+      "address": "7399 North Alta Avenue, Portland",
+      "coordinates": [
+        -122.755455,
+        45.59054
+      ],
+      "description": "Fan of Free Boxes?  This is the ride for you!  Scavenge Portland's infamous free boxes to win!  Yes, there will be prizes, not to mentio...",
+      "id": "21-5008",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5008",
+      "location": "Proper Eats, 8638 N Lombard St.",
+      "name": "FREE BOX SCAVENGER HUNT!",
+      "time": "4:00pm - 6:30pm, Show up early for a beverage and snack. At 4 we ride!"
+    },
+    {
+      "address": "4831 NE 42nd Ave, Portland",
+      "coordinates": [
+        -122.6188427,
+        45.5703566
+      ],
+      "description": "Cat Six Cycles is turning one! Come have a beer on us and take the electric assist Yuba out for a spin.",
+      "id": "21-5103",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5103",
+      "location": "Cat Six Cycles, 4831 NE 42nd Ave (42nd Ave & Alberta Ct -one block North of Going St)",
+      "name": "CAT SIX ANNIVERSARY PARTY",
+      "time": "4:00pm - 8:00pm"
+    },
+    {
+      "address": "211 SE Caruthers St Portland, OR  97214",
+      "coordinates": [
+        -122.664081881847,
+        45.5062314
+      ],
+      "description": "This solstice, join ye all lovers of Dark Things, all children of the night, and even, yes, you wanna-bes: this Goth Ride is for everyon...",
+      "id": "21-4841",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-4841",
+      "location": "Portland Opera, 211 SE Caruthers St Portland, OR  97214",
+      "name": "GOTH RIDE",
+      "time": "6:00pm - 12:00am"
+    },
+    {
+      "address": "Ladd Circle, Portland",
+      "coordinates": [
+        -122.649415394035,
+        45.508535
+      ],
+      "description": "Great Scott! The history of the bicycle is shrouded in mystery! The Working Theatre Collective is proud to present a play that invites a...",
+      "id": "21-4988",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-4988",
+      "location": "Ladd Circle, 1600 SE Harrison St",
+      "name": "BIKE PLAY 7: TIME CYCLE",
+      "time": "6:30pm, Meet up at 6:30, show starts promptly at 7:00pm, June 18 - 21"
+    },
+    {
+      "address": "McMenamins Barley Mill Pub, Portland",
+      "coordinates": [
+        -122.6487915,
+        45.5123271
+      ],
+      "description": "Second Annual. B00M! Nice leisurely ride put to the music of the Grateful Dead. Come help us celebrate 50 years! Steel Your Face.",
+      "id": "21-5060",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-5060",
+      "location": "Barley Mill Pub, 1629 SE Hawethorne",
+      "name": "DEAD HEAD RIDE",
+      "time": "6:30pm, Gather at 6:00. Ride at 6:30."
+    },
+    {
+      "address": "400 SW 13th Ave, Portland",
+      "coordinates": [
+        -122.684004,
+        45.522756
+      ],
+      "description": "Zoobomb is long running weekly bike event that meets every Sunday around 8:30PM near (13th & SW Burnside) in Portland OR. Bring a bike, ...",
+      "id": "21-3959",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-3959",
+      "location": "Zoobomb Pyle, SW 13th Ave & W Burnside",
+      "name": "ZOOBOMB",
+      "time": "8:30pm, Every Sunday"
+    },
+    {
+      "address": "People's Food Co-op",
+      "coordinates": [
+        -122.644891549895,
+        45.50080135
+      ],
+      "description": "It's the shortest night of the year.  We ride from Sundown til Sunup.  We'll make several stops in wonderful places, but plan to put in ...",
+      "id": "21-4864",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#21-4864",
+      "location": "Peoples Coop, 3029 SE 21st Ave (meet out front, don't block the door or the efforts of staff to cleanup the patio)",
+      "name": "SOLSTICE RIDE",
+      "time": "8:30pm - 6:30am, meet at 8:30, ride at sunset (9:03pm)"
+    }
+  ],
+  "22": [
+    {
+      "address": "Pioneer Courthouse Square, Portland",
+      "coordinates": [
+        -122.679327308895,
+        45.5188288
+      ],
+      "description": "Multnomah Bar Association noon time bicycle rides - short fast rides with hills.  Meet at SW corner of Pioneer Courthouse Square (Yamhil...",
+      "id": "22-4558",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-4558",
+      "location": "Pioneer Courthouse Square, SW Broadway and Morrison St",
+      "name": "PORTLAND LAWYER RIDE",
+      "time": "12:00pm - 1:30pm, Every Monday and Thursday"
+    },
+    {
+      "address": "3947 North Williams Ave, Portland",
+      "coordinates": [
+        -122.66684422449,
+        45.5513939591837
+      ],
+      "description": "Hopworks Urban Brewery is releasing their delicious radlers in a can! Join the Portland Bike Club in a 15ish mile ride out to PIR to sam...",
+      "id": "22-5110",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-5110",
+      "location": "Hopworks Bike Bar, 3947 North Williams (Look for a giant red beard)",
+      "name": "THE RADLER RIDE",
+      "time": "5:00pm - 8:00pm"
+    },
+    {
+      "address": "1 NE Lloyd Blvd, Portland",
+      "coordinates": [
+        -122.665488,
+        45.527537
+      ],
+      "description": "Inner eastside Portland is booming with large-scale multi-family construction that will help transform the Central Eastside Industrial A...",
+      "id": "22-5095",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-5095",
+      "location": "NE Oregon St & NE Lloyd Blvd (At the Peace Park near the bike signal)",
+      "name": "BRIDGING GROWING NEIGHBORHOODS",
+      "time": "5:15pm"
+    },
+    {
+      "address": "4629 SE 64th Ave",
+      "coordinates": [
+        -122.597334442953,
+        45.4892479328859
+      ],
+      "description": "A ride of biblical proportions. Put on your holiest attire and ride with Jesus on a Bike. We're shooting a music video for youtube so th...",
+      "id": "22-5104",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-5104",
+      "location": "Foster Village, 4629 SE 64th Ave",
+      "name": "JESUS ON A BIKE RIDE (MUSIC VIDEO SHOOT)",
+      "time": "5:45pm - 7:45pm, We leave at 6PM - Join for part or all of the ride"
+    },
+    {
+      "address": "416 N Beech St. Portland OR 97227",
+      "coordinates": [
+        -122.670451,
+        45.5494477272727
+      ],
+      "description": "I love monkey puzzle trees! If you'd like to join me, I'm leading a ride, through NoPo, NE and perhaps SE to see some of these beautiful...",
+      "id": "22-4932",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-4932",
+      "location": "Nacho Cheese Manor, 416 N Beech St. Portland OR 97227 (This is my house, we just put in a one year monkey puzzle in the yard :)",
+      "name": "MONKEY PUZZLE TREE RIDE",
+      "time": "6:00pm - 7:30pm, This is approximate, depending on how long and where we want to ride."
+    },
+    {
+      "address": "USS Oregon Memorial, Portland",
+      "coordinates": [
+        -122.6706939,
+        45.5203913
+      ],
+      "description": "This ride will visit several sites in Portland where movies were filmed. At each stop we will set the scene for the movie filmed there a...",
+      "id": "22-5066",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-5066",
+      "location": "USS Oregon Memorial , SW Oak and Naito Parkway (SW Oak and Naito Parkway)",
+      "name": "MOVIE GOERS RIDE",
+      "time": "6:00pm"
+    },
+    {
+      "address": "Laurelhurst Park",
+      "coordinates": [
+        -122.626757045888,
+        45.52134645
+      ],
+      "description": "Join Moishe House Portland as we celebrate the energy and silliness that is traditional Jewish Klezmer music... combined with bikes! Wel...",
+      "id": "22-5010",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-5010",
+      "location": "Laurelhurst Park, 3700 SE Ankeny St (Meet at the north side of the park, by the bathrooms)",
+      "name": "KLEZMERPALOOZA",
+      "time": "7:00pm"
+    },
+    {
+      "address": "1624 SE Woodward St Portland, OR 97202",
+      "coordinates": [
+        -122.649358632653,
+        45.5019815102041
+      ],
+      "description": "It's time for a mural. Slow pace.  We'll be setting up a very large movable banner on the Springwater. Paint will be provided. Bring sna...",
+      "id": "22-4977",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#22-4977",
+      "location": "PAZ - Portland Autonomous Zone, 1624 SE Woodward St Portland, OR 97202",
+      "name": "MONDAY MULTIMEDIA MURAL PAINTING!",
+      "time": "7:15pm, Ride at 8:00"
+    }
+  ],
+  "23": [
+    {
+      "address": "1412 SE 12th Ave, Portland, OR",
+      "coordinates": [
+        -122.653558,
+        45.5127445714286
+      ],
+      "description": "The sun's up -- let's ride bikes! Meet at Tiny's, fill your thermos as needed, and head out for a ride in SE PDX. We'll finish by 8am, e...",
+      "id": "23-4992",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#23-4992",
+      "location": "Tiny's Coffeehouse, 1412 SE 12th Ave, Portland, OR",
+      "name": "MORNIN' RIDE 2",
+      "time": "6:30am"
+    },
+    {
+      "address": "1200 SW Park Avenue",
+      "coordinates": [
+        -122.682355,
+        45.516124
+      ],
+      "description": "Americans have been riding bikes for more than a century now. So why are most American cities still so ill-prepared to handle cyclists? ...",
+      "id": "23-4925",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#23-4925",
+      "location": "Oregon Historical Society, 1200 SW Park Avenue",
+      "name": "BIKE BATTLES READING",
+      "time": "12:00pm"
+    },
+    {
+      "address": "Oregon Park, Portland",
+      "coordinates": [
+        -122.635211275213,
+        45.52790385
+      ],
+      "description": "Taking the Lane, Not Prisoners. This is a ride to protest increasingly unsafe conditions on PDX streets, including those designated as b...",
+      "id": "23-5021",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#23-5021",
+      "location": "Oregon Park, NE Hoyt St and 29th Ave",
+      "name": "SAVE THE HUMANS: TRAFFIC SAFETY PROTEST",
+      "time": "4:30pm, We ride at 5pm!"
+    },
+    {
+      "address": "2216 Northeast Martin Luther King Junior Boulevard, Portland",
+      "coordinates": [
+        -122.6613577,
+        45.53898665
+      ],
+      "description": "A boozy Tom Waits themed bike ride through Portland's dives, followed by a screening of \"Down By Law\" at the end.We start off meeting at...",
+      "id": "23-4889",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#23-4889",
+      "location": "Billy Ray's Dive Bar, 2216 NE Martin Luther King Jr Blvd",
+      "name": "BROKEN BICYCLES TOM WAITS RIDE",
+      "time": "5:00pm"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Join the Young Professionals in Transportation Portland Chapter for a scavenger hunt to find some of the great places in Portland's bike...",
+      "id": "23-4904",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#23-4904",
+      "location": "Salmon Street Springs (SW Naito and SW Salmon), 1000 SW Naito Pkwy, Portland, OR",
+      "name": "PORTLAND'S TRANSPORTATION HISTORY SCAVENGER HUNT",
+      "time": "5:30pm - 7:00pm, After the hunt, we grab drinks at Burnside Brewing"
+    },
+    {
+      "address": "Sabin HydroPark, Portland",
+      "coordinates": [
+        -122.645760421358,
+        45.5549185
+      ],
+      "description": "ride your bicycle. enjoy lovely scenery. pen a poem or six.",
+      "id": "23-5067",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#23-5067",
+      "location": "Sabin HydroPark, NE 19th and Skidmore",
+      "name": "HAIKU BIKE-U",
+      "time": "5:30pm"
+    },
+    {
+      "address": "20 SE 8th Ave, Portland",
+      "coordinates": [
+        -122.65736895,
+        45.5224928
+      ],
+      "description": "*Mobile Silent DiscoSay What?!Mixing & mashing up my favorites: KBOO Community Radio, Pedalpalooza, The Melting Pot Radio Show & Silent ...",
+      "id": "23-5044",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#23-5044",
+      "location": "KBOO Community Radio Station, 20 SE 8th Ave, Portland",
+      "name": "SILENT DISCO RIDE-KBOO 90.7 FM",
+      "time": "7:45pm, Rolling out as soon as TAKIMBA hits the airwaves!  That's 8 PM sharp . . ."
+    }
+  ],
+  "24": [
+    {
+      "address": "Portland City Hall, University District",
+      "coordinates": [
+        -122.679116507877,
+        45.515023
+      ],
+      "description": "It \"would be great if we had even 200 people in front of City Hall holding up signs.\" - Roger Geller, PBOT Bicycle Coordinator: http://b...",
+      "id": "24-5016",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-5016",
+      "location": "City Hall, 1221 SW 4th Ave",
+      "name": "CITY HALL RALLY!",
+      "time": "8:00am - 10:00am"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "On June 24th, Portland's \"climate champions\" in City Hall will vote on amendments to the Climate Action Plan. With dozens of businesses ...",
+      "id": "24-5068",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-5068",
+      "location": "Salmon Street Fountain, SW Salmon St and Naito Pkwy",
+      "name": "CLIMATE ACTION PLAN RIDE",
+      "time": "11:00am"
+    },
+    {
+      "address": "111 West Burnside St. Portland, OR 97209",
+      "coordinates": [
+        -122.671628,
+        45.5233302
+      ],
+      "description": "Ever wonder why Santa appears randomly, without any real warning, on Portland streets, offering to sing NAKED for a dolla?  That is beca...",
+      "id": "24-4903",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-4903",
+      "location": "Portland Rescue Mission, 111 West Burnside St. Portland, OR 97209",
+      "name": "SANTACON HOMES FOR THE HOMELESS",
+      "time": "3:45pm"
+    },
+    {
+      "address": "34 Northwest 8th Ave, Portland",
+      "coordinates": [
+        -122.67825445,
+        45.5235395
+      ],
+      "description": "The downgrade portland ride will tour Portland roads and bike facilities that are \"not-platinum\". The ride will finish by circling city ...",
+      "id": "24-5013",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-5013",
+      "location": "North Park Blocks by the Elephant, NW Park Ave and Couch St",
+      "name": "DOWNGRADE PORTLAND RIDE",
+      "time": "4:30pm - 5:30pm, Ride: 30 mins.  Rally: no time limit."
+    },
+    {
+      "address": "699 NE Morris St, Portland",
+      "coordinates": [
+        -122.658754,
+        45.544743
+      ],
+      "description": "Let's meet at the Wishing Tree!  We'll make our wishes and then head on to interact with art made by neighbors around NE and SE Portland...",
+      "id": "24-4907",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-4907",
+      "location": "Wishing Tree, NE 7th & Morris",
+      "name": "HIDDEN PORTLAND INTERACTIVE ART RIDE",
+      "time": "5:30pm, roll at 6"
+    },
+    {
+      "address": "618 NW Glisan St, Portland",
+      "coordinates": [
+        -122.676836714286,
+        45.5265310816327
+      ],
+      "description": "The free clinic covers Oregon laws pertaining to bicycles and pedestrians, insurance information, and what to do if youre in a crash. Th...",
+      "id": "24-4960",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-4960",
+      "location": "Bicycle Transportation Alliance, 618 NW Glisan St., Suite 401",
+      "name": "LEGAL CLINIC",
+      "time": "6:00pm - 7:00pm"
+    },
+    {
+      "address": "2300 Northwest Flanders Street, Portland",
+      "coordinates": [
+        -122.698618,
+        45.525423
+      ],
+      "description": "Hey-diddly-ho, neighborinos! Bust out your green sweaters and handlebar mustaches, and join us for a fun and wonky ride down the future ...",
+      "id": "24-5032",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-5032",
+      "location": "NW Flanders & 23rd",
+      "name": "(NED) FLANDERS NEIGHBORHOOD GREENWAY RIDE",
+      "time": "6:00pm"
+    },
+    {
+      "address": "Bill Naito Legacy Fountain, Portland",
+      "coordinates": [
+        -122.669831535067,
+        45.52217585
+      ],
+      "description": "Time for all our four-wheel friends to unite! Get your skateboard or roller skates out and get ready to skate around the city in search ...",
+      "id": "24-5012",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#24-5012",
+      "location": "Naito Legacy Fountain, SW Ankeny and SW Naito Parkway (Meet on the steps next to the fountain)",
+      "name": "SKATE SCAVENGER HUNT",
+      "time": "6:30pm - 8:30pm"
+    }
+  ],
+  "25": [
+    {
+      "address": "Pioneer Courthouse Square, Portland",
+      "coordinates": [
+        -122.679327308895,
+        45.5188288
+      ],
+      "description": "Multnomah Bar Association noon time bicycle rides - short fast rides with hills.  Meet at SW corner of Pioneer Courthouse Square (Yamhil...",
+      "id": "25-4558",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-4558",
+      "location": "Pioneer Courthouse Square, SW Broadway and Morrison St",
+      "name": "PORTLAND LAWYER RIDE",
+      "time": "12:00pm - 1:30pm, Every Monday and Thursday"
+    },
+    {
+      "address": "Oregon Park, Portland",
+      "coordinates": [
+        -122.635211275213,
+        45.52790385
+      ],
+      "description": "We will loop around the 20s bike way route and observe  plentiful free parking. We will also stop to discuss 20s bike way infrastructure...",
+      "id": "25-5014",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-5014",
+      "location": "Oregon Park, NE Hoyt St and 29th Ave",
+      "name": "28TH BIKE LANE FAIL RIDE",
+      "time": "5:00pm - 6:00pm"
+    },
+    {
+      "address": "3354 SE Powell Blvd Portland OR 97202",
+      "coordinates": [
+        -122.630107214286,
+        45.496717
+      ],
+      "description": "Bikes For Humanity PDX (B4HPDX) Thursdays Free Volunteer Mechanics Class8-week professionally instructed bicycle mechanics curriculum tr...",
+      "id": "25-4125",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-4125",
+      "location": "B4HPDX Shop & Bike School, 3354 SE Powell Blvd Portland OR 97202",
+      "name": "B4HPDX FREE VOLUNTEER MECHANICS CLASS",
+      "time": "6:00pm - 9:00pm, Every Thursday"
+    },
+    {
+      "address": "3784 SE 21st Ave, Portland",
+      "coordinates": [
+        -122.644550363636,
+        45.4958263636364
+      ],
+      "description": "Join STK for the 4th Annual Kilted Ride.  Meet up at STK HQ Showroom wearing your Kilt, then travel to bars in SE Portland.   Plan on ri...",
+      "id": "25-5088",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-5088",
+      "location": "STK HQ Showroom, 2020 SE Bush Street (STK HQ is located where 21st Ave ends at SE Bush St - just south of Powell Blvd.)",
+      "name": "KILTED RIDE",
+      "time": "6:00pm, Meet at STK HQ Showroom to purchase a Kilt or enjoy a beer beforehand."
+    },
+    {
+      "address": "North, Southeast Division Street, Portland",
+      "coordinates": [
+        -122.6108285,
+        45.5051839
+      ],
+      "description": "Don't care about pedalpalooozalala anymore? been there? done that? Jaw hurt from yawning? eyes sore from rolling? This ride might be for...",
+      "id": "25-4931",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-4931",
+      "location": "SE 50th Ave and Division St (near the clock tower)",
+      "name": "JADED CYCLIST BIKECYCLE CYCLING RIDE",
+      "time": "6:30pm"
+    },
+    {
+      "address": "1200 SW Park Avenue, Portland",
+      "coordinates": [
+        -122.682355,
+        45.516124
+      ],
+      "description": "Are you uni-curious? Don't want to deal with TWO wheels, a chain, or handlebars? Do you want people to ask you \"Where's your other wheel...",
+      "id": "25-5005",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-5005",
+      "location": "South Park Blocks, SW Park Ave and Madison St",
+      "name": "UNICYCLES FOR NOOBS",
+      "time": "6:30pm"
+    },
+    {
+      "address": "In Other Words, Portland",
+      "coordinates": [
+        -122.6665322,
+        45.56255635
+      ],
+      "description": "Hosted by In Other Words Feminist Community Center! FREE STUFF! Dress up as a Feminist Superhero! What is that? It's whatever you want i...",
+      "id": "25-5099",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-5099",
+      "location": "In Other Words Feminist Community Center, 14 NE Killingsworth St",
+      "name": "FEMINIST SUPERHERO SCAVENGER HUNT",
+      "time": "6:30pm"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Starting at Irving Park we'll party along a route highlighting the growth of XRAY.fm including studios, glimpses of the actual radio tow...",
+      "id": "25-5007",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-5007",
+      "location": "Top of the hill at Irving Park, NE 9th & Cook",
+      "name": "XRAY.FM: STATION TO STATION",
+      "time": "7:00pm - 9:00pm"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Thursday Night, the streets are ours. Come one, come all! Bring yr bike and your enthusiasm!!! We are going to RIDE, nice and easy in a ...",
+      "id": "25-4874",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#25-4874",
+      "location": "Salmon Street Fountain, SW Salmon St and Naito Pkwy",
+      "name": "THURSDAY NIGHT RIDE",
+      "time": "7:30pm"
+    }
+  ],
+  "26": [
+    {
+      "address": "400 Northeast Couch Street, Portland",
+      "coordinates": [
+        -122.661584,
+        45.523564
+      ],
+      "description": "The last friday of every month for over 10 years now, the Shift community has been providing free pastries and coffee (and sometimes, ba...",
+      "id": "26-4000",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-4000",
+      "location": "Steel, Burnside, and Hawthorne bridges, bridgey",
+      "name": "BREAKFAST ON THE BRIDGES",
+      "time": "7:15am, Last Friday of every month"
+    },
+    {
+      "address": "Salmon Street Springs Fountain",
+      "coordinates": [
+        -122.673322437578,
+        45.5153827
+      ],
+      "description": "Join us for a Brews, Cruise and Muse Ride around SE & NE Portland hitting up places with Good Brews, Bike and Food Cruising and some Mus...",
+      "id": "26-4968",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-4968",
+      "location": "Salmon Street Springs Fountain, SW Naito Pkwy & Salmon St",
+      "name": "BREWS, CRUISE AND A MUSE!",
+      "time": "5:00pm"
+    },
+    {
+      "address": "slipway, south waterfront park, Portland",
+      "coordinates": [
+        -122.6715006,
+        45.5074806
+      ],
+      "description": "5:30pm - 8:00pm. Even better than last year! Come celebrate the Flying Spaghetti Monster! Wear your finest Pirate garb or pasta strainer...",
+      "id": "26-4840",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-4840",
+      "location": "Marquam Beach, 1920 SW River Square (Under the west end of the Marquam Bridge)",
+      "name": "PASTAFARIAN PIRATE RIDE",
+      "time": "5:30pm - 8:00pm, We ride at 6pm sharp-ish."
+    },
+    {
+      "address": "Bill Naito Legacy Fountain, Portland",
+      "coordinates": [
+        -122.669831535067,
+        45.52217585
+      ],
+      "description": "Skate in the street! Bring your roller skates, blades, scooters, and skateboards for a skate around town! Fifth annual Skate Critical Ma...",
+      "id": "26-5036",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-5036",
+      "location": "Saturday Market Fountain, SW Ankeny & Naito",
+      "name": "SKATE CRITICAL MASS",
+      "time": "6:00pm"
+    },
+    {
+      "address": "1100 Southeast Division Street, Portland",
+      "coordinates": [
+        -122.6544435,
+        45.5046394
+      ],
+      "description": "Blaqpaks makes bags and bike accessories in SE Portland. Join us for our 8th Anniversary Party and Ride. Details coming!",
+      "id": "26-4962",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-4962",
+      "location": "BlaqPaks World HQ, SE 11th Ave and Division St. (Suite 117)",
+      "name": "BLAQPAKS ANNIVERSARY PARTY & RIDE",
+      "time": "7:00pm"
+    },
+    {
+      "address": "Colonel Summers Park",
+      "coordinates": [
+        -122.647332776234,
+        45.5157416
+      ],
+      "description": "The eighth (What? REALLY?) annual Bowie Vs. Prince ride. Pick you popstar allegiance and we'll meet up for the battle of Team Bowie and ...",
+      "id": "26-4803",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-4803",
+      "location": "Col. Summers Park, SE 20th and Belmont",
+      "name": "TEAM BOWIE",
+      "time": "8:00pm"
+    },
+    {
+      "address": "Sewallcrest Park, Portland",
+      "coordinates": [
+        -122.632906086387,
+        45.5097054
+      ],
+      "description": "*TEAM PRINCE Leg of the Classic Bowie Vs. Prince Pedalpalooza Ride! Mobile Dance Party!Rolling out shortly after 8 to meet Team Bowie!Co...",
+      "id": "26-4996",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-4996",
+      "location": "Sewallcrest Park, SE 31st Ave and Stephens St (Meet near the playground)",
+      "name": "TEAM PRINCE",
+      "time": "8:00pm"
+    },
+    {
+      "address": "2522 SE Clinton",
+      "coordinates": [
+        -122.6536664,
+        45.5030127
+      ],
+      "description": "The WORLD PREMIERE of Portland's own, human-powered, sex-positive film festival... BIKE PORN! Bike Smut returns to the Clinton St Theate...",
+      "id": "26-4747",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#26-4747",
+      "location": "Clinton Street Theater, 2522 SE Clinton",
+      "name": "BIKE SMUT 9: SCIENCE FRICTION",
+      "time": "9:00pm - 11:00pm"
+    }
+  ],
+  "27": [
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Dust off your glove and join the PCBC for a leisurely tour of N/NE baseball fields. Begins and ends at Irving Park on the baseball diamo...",
+      "id": "27-4964",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-4964",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland (Baseball diamond is in the far corner.)",
+      "name": "THE SANDLOT RIDE FIVE",
+      "time": "10:00am - 12:00pm, After the ride, you're welcome to join in our weekly tradition of baseball at Irving Park."
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Ride 100 km naked--we'll string together the 4 sunny naked rides and the night ride. Morning Naked, Sunny Nekkid, Fig Leif Naked, St. Jo...",
+      "id": "27-5034",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5034",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland (Meet by the basketball arena)",
+      "name": "NAKED METRIC CENTURY",
+      "time": "10:00am - 10:00pm, Roll at 10:15"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Start the WNBR day right with a morning naked ride.  Or warm jacket and bottomless ride.  We'll wander quiet streets, enjoy body accepta...",
+      "id": "27-5035",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5035",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland (Meet by the basketball arena)",
+      "name": "MORNING NAKED RIDE",
+      "time": "10:00am - 12:30pm, Roll at 10:15"
+    },
+    {
+      "address": "LL Stub Stewart Memorial State Park, 97109",
+      "coordinates": [
+        -123.197152287241,
+        45.7031058
+      ],
+      "description": "Never been bike-camping, but want to try it out? NOW IS YOUR CHANCE! 23ish miles each way, beginner and family friendly. For more detail...",
+      "id": "27-5064",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5064",
+      "location": "Stub Stewart State Park, Banks-Vernonia Trail (We'll meet at the Starbucks near the MAXin Hillsboro and ride from there.)",
+      "name": "CYCLEWILD BEGINNER FRIENDLY BIKE CAMPING TRIP",
+      "time": "10:00am, 10 am Saturday til Sunday afternoon."
+    },
+    {
+      "address": "4235 SE Woodstock Boulevard",
+      "coordinates": [
+        -122.619064869565,
+        45.4792676956522
+      ],
+      "description": "Let's explore the unimproved roads in the SE Woodstock and Mt Scott area. 11am Meeting at The Bike Gallery on SE Woodstock, all attendee...",
+      "id": "27-5054",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5054",
+      "location": "Bike Gallery SE Woodstock, 4235 SE Woodstock Boulevard (Shop Discount 11am-12noon, Meet in Parking Lot at 12 to Ramble!)",
+      "name": "UNIMPROVED ROAD RIDE RAMBLE",
+      "time": "11:00am, Shop at 11am, Ride at 12 noon"
+    },
+    {
+      "address": "Skidmore Fountain, Portland",
+      "coordinates": [
+        -122.67109157541,
+        45.52241045
+      ],
+      "description": "Come scavenger around town for the pinatas and the clues. Will end at an establishment with tacos and margaritas. Good times will be had...",
+      "id": "27-4908",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-4908",
+      "location": "Skidmore Fountain Meet Up, SW 1st Ave and Ankeny St (Look for a pinata :)",
+      "name": "PINATA SCAVENGER HUNT RIDE!",
+      "time": "11:30am - 2:30pm, Come at 11:30, Ride at Noon"
+    },
+    {
+      "address": "Laurelhurst Park",
+      "coordinates": [
+        -122.626757045888,
+        45.52134645
+      ],
+      "description": "Why do we love bikes so much? Perhaps it's the sense of freedom they bring. Freedom of remembering how strong we are, how capable, how i...",
+      "id": "27-5092",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5092",
+      "location": "Laurelhurst Park, 3700 SE Ankeny St (meet at 33rd and SE Ankeny)",
+      "name": "LYB TO MCBF: ECSTATIC DANCE BY BIKE",
+      "time": "12:30pm - 2:30pm, we'll hang out at the bike faire afterward"
+    },
+    {
+      "address": "Coe Circle, Portland",
+      "coordinates": [
+        -122.622679,
+        45.5262697
+      ],
+      "description": "Fun ride in the sun, celebrate body freedom, bring paint for self expression & messages. Clothing optional, smiles recommended.   This i...",
+      "id": "27-5033",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5033",
+      "location": "Coe Circle, , 3900 NE Glisan St",
+      "name": "SUNNY NEKKID RIDE",
+      "time": "1:00pm - 3:30pm, Roll at 1:15"
+    },
+    {
+      "address": "370 Northwest Naito Parkway, Portland",
+      "coordinates": [
+        -122.671207,
+        45.5266026666667
+      ],
+      "description": "Steel Bridge West End, nw naito and nw glisan Take Trimet12:00pmBring your boat by bike down to the river!  We meet at West End of Steel...",
+      "id": "27-5038",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5038",
+      "location": "Beach on West End of Steel Bridge, NW Naito and Glisan",
+      "name": "PADDLEPALOOZA!",
+      "time": "1:00pm"
+    },
+    {
+      "address": "Irving Park, Portland",
+      "coordinates": [
+        -122.656689518416,
+        45.54749405
+      ],
+      "description": "Get out your hot pink and black and come ride with The Sprockettes! Celebrating 11 years of bicycle dancing in Portland, the girls would...",
+      "id": "27-4831",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-4831",
+      "location": "Irving Park, NE 7th Ave and Fargo St, Portland (by the basketball courts)",
+      "name": "SPROCKETTES ANNIVERSARY RIDE TO MCBF",
+      "time": "1:30pm - 5:30pm, 5pm performance at Multnomah County Bike Fair"
+    },
+    {
+      "address": "1624 SE Woodward St Portland, OR 97202",
+      "coordinates": [
+        -122.649358632653,
+        45.5019815102041
+      ],
+      "description": "MCBF is the catastrophic culmination of 3+ weeks of Pedalpalooza bike fun.As always, live music and crazy competitions.Bring your friend...",
+      "id": "27-4552",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-4552",
+      "location": "PAZ, SE 17th and Woodward",
+      "name": "MULTNOMAH COUNTY BIKE FAIR!",
+      "time": "2:00pm - 7:00pm"
+    },
+    {
+      "address": "36 N Russell St, Portland, OR",
+      "coordinates": [
+        -122.66701077551,
+        45.5409406938776
+      ],
+      "description": "Let's celebrate the 4th of July early by drinking and listening to \"Party in the USA\" on repeat while riding around town.We'll meet at S...",
+      "id": "27-5046",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5046",
+      "location": "Sloan's, 36 N Russell St, Portland, OR",
+      "name": "PARTY IN THE USA RIDE",
+      "time": "2:00pm - 6:00pm"
+    },
+    {
+      "address": "drinking water, Northwest Leif Erikson Drive",
+      "coordinates": [
+        -122.7254357,
+        45.5390939
+      ],
+      "description": "Ride naked through the forest -- 10K gravel road bike ride on NW Leif Erickson Road.  Forest Park is one of Portland' crown jewels.  Man...",
+      "id": "27-5071",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5071",
+      "location": "Forest Park, top of NW Thurman St. (500 yards beyond the entry gate by the Port-a-Potties)",
+      "name": "FIG LEIF NAKED RIDE",
+      "time": "4:00pm - 6:00pm, Roll at 4:15"
+    },
+    {
+      "address": "7238 N Burlington Ave, Portland",
+      "coordinates": [
+        -122.755309596153,
+        45.5891288997181
+      ],
+      "description": "We'll ride together to the start of the WNBR from St. Johns.  We will take side streets as much as possible and be as nude as desired. W...",
+      "id": "27-5031",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5031",
+      "location": "Block Bikes PDX LLC, 7238 N Burlington Ave, 7238 N Burlington Ave (We'll move over to the plaza across the street if we run out of sidewalk.)",
+      "name": "ST JOHN'S NAKED RIDE",
+      "time": "6:30pm, We'll plan to leave by 6:45pm"
+    },
+    {
+      "address": "1600 Southeast Brooklyn Street, Portland",
+      "coordinates": [
+        -122.649526,
+        45.501269
+      ],
+      "description": "MCBF is over. Tend to your wounds, drink some water, drop your pants, and roll with us to the World Naked Bike Ride.",
+      "id": "27-5098",
+      "link": "http://www.shift2bikes.org/cal/viewpp2015.php#27-5098",
+      "location": "SE 16th and Brooklyn (1 block south of MCBF)",
+      "name": "MCBF2WNBR",
+      "time": "7:00pm"
+    }
+  ]
+}
